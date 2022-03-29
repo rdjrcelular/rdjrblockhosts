@@ -1,0 +1,2745 @@
+127.0.0.1 localhost
+::1 localhost
+192.168.0.1 BBL # SELF HOSTNAME. DO NOT EDIT OR REMOVE THIS COMMENT!
+
+#******************* TEMP ***************************
+
+#influencia no backup whatsapp:
+#0.0.0.0 backup.googleapis.com
+#0.0.0.0 mmg.whatsapp.net
+0.0.0.0 graph.whatsapp.net
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+#0.0.0.0 is1-ssl.mzstatic.com
+#0.0.0.0 b-graph.facebook.com
+#0.0.0.0 b-api.facebook.com
+#0.0.0.0 api.facebook.com
+#0.0.0.0 z-m-graph.facebook.com
+#0.0.0.0 b-graph.facebook.com
+#0.0.0.0 graph.facebook.com
+#0.0.0.0 graph.facebook.com.br
+#0.0.0.0 graph.facebook.net
+#0.0.0.0 api.facebook.com
+#0.0.0.0 b-api.facebook.com
+#0.0.0.0 developers.facebook.com
+#0.0.0.0 connect.facebook.net
+#0.0.0.0 connect.facebook.com
+#0.0.0.0 connect.facebook.com.br
+#0.0.0.0 connect.facebook
+#0.0.0.0 gateway.facebook.com
+#0.0.0.0 web.facebook.com
+#0.0.0.0 portal.fb.com
+#0.0.0.0 graph.facebook.com
+#0.0.0.0 b-graph.facebook.com
+#0.0.0.0 api.facebook.com
+#0.0.0.0 chat-e2ee-mini.facebook.com
+#0.0.0.0 lookaside.facebook.com
+0.0.0.0 ads.facebook.com
+#0.0.0.0 portal.fb.com
+#0.0.0.0 portal.facebook.com
+
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
+
+0.0.0.0 publicsuffix.org
+0.0.0.0 aus.mozilla.org
+0.0.0.0 aus1.mozilla.org
+0.0.0.0 aus2.mozilla.org
+0.0.0.0 aus3.mozilla.org
+0.0.0.0 aus4.mozilla.org
+0.0.0.0 aus5.mozilla.org
+0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
+0.0.0.0 mozgcp.net
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 services.mozilla.com
+#0.0.0.0 tr.gingersoftware.com
+#0.0.0.0 gingersoftware.com
+0.0.0.0 fs.microsoft.com
+#0.0.0.0 excess.duolingo.com
+#0.0.0.0 96.ucp-ntfy.kaspersky-labs.com
+#0.0.0.0 dc1-st.ksn.kaspersky-labs.com
+0.0.0.0 cdn.privacytools.com.br
+0.0.0.0 privacytools.com.br
+0.0.0.0 ws.batch.com
+0.0.0.0 batch.com
+
+####### GOOGLE: #####
+
+#Influencia no gmail (sair):
+#0.0.0.0 ogs.google.com
+
+0.0.0.0 adwords.google.com
+0.0.0.0 adsense.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservices.google.com
+0.0.0.0 feedburner.google.com
+0.0.0.0 adservice.google.com
+#0.0.0.0 apis.google.com
+0.0.0.0 plus.l.google.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 alt1-mtalk.google.com
+0.0.0.0 alt2-mtalk.google.com
+0.0.0.0 alt3-mtalk.google.com
+0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 alt5-mtalk.google.com
+0.0.0.0 alt6-mtalk.google.com
+0.0.0.0 alt7-mtalk.google.com
+0.0.0.0 alt8-mtalk.google.com
+0.0.0.0 alt9-mtalk.google.com
+0.0.0.0 alt10-mtalk.google.com
+0.0.0.0 mtalk4.google.com
+#0.0.0.0 cse.google.com
+0.0.0.0 marketingplatform.google.com
+#0.0.0.0 tagmanager.google.com
+#0.0.0.0 android.clients.google.com
+#d0.0.0.0 l.google.com
+#0.0.0.0 alt1-safebrowsing.google.c
+0.0.0.0 suggestqueries.google.com
+#0.0.0.0 sb-ssl.google.com
+#0.0.0.0 id.google.com
+#0.0.0.0 android.clients.google.com
+#0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 notifications-pa.googleapis.com
+#0.0.0.0 play.googleapis.com
+#0.0.0.0 update.googleapis.com
+#0.0.0.0 androidpay-users-pa.googleapis.com
+#0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 phonedeviceverification-pa.googleapis.com
+#0.0.0.0 ajax.googleapis.com
+#0.0.0.0 play-fe.googleapis.com
+#0.0.0.0 deviceintegritytokens-pa.googleapis.com
+#0.0.0.0 content-autofill.googleapis.com
+#0.0.0.0 firebaselogging.googleapis.com
+#0.0.0.0 firebaseremoteconfig.googleapis.com
+#0.0.0.0 firebaseremoteconfig.googleapis.com
+#0.0.0.0 digitalassetlinks.googleapis.com
+#0.0.0.0 ondevicesafety-pa.googleapis.com
+#0.0.0.0 photosdata-pa.googleapis.com
+#0.0.0.0 growth-pa.googleapis.com
+#0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 userlocation.googleapis.com
+#0.0.0.0 businesscalls.googleapis.com
+0.0.0.0 regioninfo-pa.googleapis.com
+#0.0.0.0 telephonyspamprotect-pa.googleapis.com
+0.0.0.0 mobilecrashreporting.googleapis.com
+0.0.0.0 www.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com.br
+0.0.0.0 googlesyndication.com
+0.0.0.0 googlesyndication.com.br
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead.googlesyndication.com.br
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com.br
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com.br
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+#0.0.0.0 avatars.githubusercontent.com
+#0.0.0.0 oauth.googleusercontent.com
+#0.0.0.0 apps.googleusercontent.com
+#0.0.0.0 lh3.googleusercontent.com
+#0.0.0.0 *.googleusercontent.com
+#0.0.0.0 googleusercontent.com
+#0.0.0.0 play-lh.googleusercontent.com
+0.0.0.0 google-analytics.com
+#0.0.0.0 googletagmanager.com
+0.0.0.0 cpu-meter.firebaseio.com
+0.0.0.0 www-moyens-net.cdn.ampproject.org
+0.0.0.0 secure-gravatar-com.cdn.ampproject.org
+#0.0.0.0 cdn.ampproject.org
+#0.0.0.0 ampproject.org
+#0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 csp.withgoogle.com
+0.0.0.0 withgoogle.com
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 googletraveladservices.com
+0.0.0.0 www.googletraveladservices.com
+#0.0.0.0 manifest.googlevideo.com
+#0.0.0.0 redirector.googlevideo.com
+
+
+#0.0.0.0 domains.google.com
+#0.0.0.0 googleadapis.l.google.com
+#0.0.0.0 secure-ds.serving-sys.com
+#0.0.0.0 i1.ytimg.com
+#0.0.0.0 googletagservices.com
+#0.0.0.0 www.googletagservices.com
+0.0.0.0 google-public-dns-a.google.com
+0.0.0.0 google-public-dns-b.google.com
+0.0.0.0 google-public-dns-c.google.com
+0.0.0.0 google-public-dns-d.google.com
+0.0.0.0 dns64.dns.google
+0.0.0.0 dns64.google
+0.0.0.0 analytics.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 google-analytics.com
+0.0.0.0 doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 www.doubleclick.net
+0.0.0.0 ads.doubleclick.net
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 pagead2.googleadservices.com.br
+0.0.0.0 partner.googleadservices.com.br
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googleadservices.com.br
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 ads.doubleclick.net
+0.0.0.0 ad.youtube.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 www.googleadservices.com
+0.0.0.0 analytic-google.com
+0.0.0.0 www.analytic-google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 imageads.googleadservices.com
+0.0.0.0 imageads.googleadservices.com
+0.0.0.0 imageads1.googleadservices.com
+0.0.0.0 imageads1.googleadservices.com
+0.0.0.0 imageads2.googleadservices.com
+0.0.0.0 imageads3.googleadservices.com
+0.0.0.0 imageads4.googleadservices.com
+0.0.0.0 imageads5.googleadservices.com
+0.0.0.0 imageads6.googleadservices.com
+0.0.0.0 imageads7.googleadservices.com
+0.0.0.0 imageads8.googleadservices.com
+0.0.0.0 imageads9.googleadservices.com
+0.0.0.0 adssettings.google.com
+0.0.0.0 adservices.google.com
+0.0.0.0 adwords.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 *.googleads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+#0.0.0.0 ocsp.pki.goog
+#0.0.0.0 pki-goog.l.google.com
+#0.0.0.0 youtube-ui.l.google.com
+#0.0.0.0 safebrowsing.googleapis.com
+#0.0.0.0 android-context-data.googleapis.com
+#0.0.0.0 redirector.googlevideo.com
+#0.0.0.0 googleapis.com
+#0.0.0.0 www.googleapis.com
+#0.0.0.0 googletagservices.com
+#0.0.0.0 www.googletagservices.com
+#0.0.0.0 clients1.youtube.com
+#0.0.0.0 clients2.youtube.com
+#0.0.0.0 clients3.youtube.com
+#0.0.0.0 clients4.youtube.com
+#0.0.0.0 clients5.youtube.com
+#0.0.0.0 clients6.youtube.com
+#0.0.0.0 clients7.youtube.com
+#0.0.0.0 clients8.youtube.com
+#0.0.0.0 clients9.youtube.com
+#0.0.0.0 clients10.youtube.com
+#0.0.0.0 clients1.google.com
+#0.0.0.0 clients2.google.com
+#0.0.0.0 clients3.google.com
+#0.0.0.0 clients4.google.com
+#0.0.0.0 clients5.google.com
+#0.0.0.0 clients6.google.com
+#0.0.0.0 clients7.google.com
+#0.0.0.0 clients8.google.com
+#0.0.0.0 clients9.google.com
+#0.0.0.0 clients10.google.com
+#0.0.0.0 www.customers6.google.com
+#0.0.0.0 customers6.google.com
+#0.0.0.0 s.youtube.com
+#0.0.0.0 content.googleapis.com
+#0.0.0.0 www-googleanager.l.google.com
+#0.0.0.0 www.googletagmanager.com
+#0.0.0.0 safebrowsing.googleapis.com
+#0.0.0.0 play.googleapis.com
+#0.0.0.0 update.googleapis.com
+#0.0.0.0 android.googleapis.com
+#0.0.0.0 googleapis.com
+#0.0.0.0 www.googleapis.com
+#0.0.0.0 yt3.ggpht.com
+#0.0.0.0 ggpht.com
+#0.0.0.0 suggestqueries.google.com
+#0.0.0.0 connectivitycheck.gstatic.com
+#0.0.0.0 googleapis.com
+#0.0.0.0 www.googleapis.com
+#0.0.0.0 accounts.google.com
+#0.0.0.0 goo.gl
+
+###### FIM GOOGLE ####
+
+#filmes:
+0.0.0.0 get.optad360.io
+0.0.0.0 optad360.io
+0.0.0.0 ads.themoneytizer.com
+0.0.0.0 themoneytizer.com
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 mgr.consensu.org
+0.0.0.0 consensu.org
+0.0.0.0 connect-metrics-collector.s-onetag.com
+0.0.0.0 s-onetag.com
+0.0.0.0 x.bidswitch.net
+0.0.0.0 bidswitch.net
+0.0.0.0 gearbest.com
+0.0.0.0 www.gearbest.com
+0.0.0.0 lowtyruntor.com
+0.0.0.0 www.lowtyruntor.com
+0.0.0.0 bet365.com
+0.0.0.0 www.bet365.com
+0.0.0.0 dotchaudou.com
+0.0.0.0 www.dotchaudou.com
+0.0.0.0 evorurthkpgqnuy.com
+0.0.0.0 www.evorurthkpgqnuy.com
+0.0.0.0 hqommfypdl.com
+0.0.0.0 www.hqommfypdl.com
+0.0.0.0 howsliferightnow.com
+0.0.0.0 www.howsliferightnow.com
+0.0.0.0 wp.com
+0.0.0.0 i0.wp.com
+0.0.0.0 i1.wp.com
+0.0.0.0 i2.wp.com
+0.0.0.0 spl.zeotap.com
+0.0.0.0 zeotap.com
+0.0.0.0 ce.lijit.com
+0.0.0.0 lijit.com
+0.0.0.0 pixel.onaudience.com
+0.0.0.0 onaudience.com
+0.0.0.0 dist.dadosgratis.club
+0.0.0.0 dadosgratis.club
+0.0.0.0 www.dadosgratis.club
+0.0.0.0 waust.at
+0.0.0.0 www.waust.at
+0.0.0.0 ouphoarg.com
+0.0.0.0 www.ouphoarg.com
+
+#### fim filmes ###
+
+
+#0.0.0.0 clientservices.googleapis.com
+#0.0.0.0 argo.svcmot.com
+#0.0.0.0 svcmot.com
+#0.0.0.0 moto-cds.appspot.com
+
+#influencia futebolplayhd entre outros:
+#0.0.0.0 netdna.bootstrapcdn.com
+#0.0.0.0 bootstrapcdn.com
+
+0.0.0.0 winscp.net
+#0.0.0.0 www.bit.ly
+#0.0.0.0 bit.ly
+0.0.0.0 officecdn.microsoft.com
+
+0.0.0.0 x1.c.lencr.org
+0.0.0.0 c.lencr.org
+0.0.0.0 lencr.org
+
+#malwarebytes:
+#0.0.0.0 sirius.mwbsys.com
+#0.0.0.0 login.live.com
+0.0.0.0 ads.google.com
+#0.0.0.0 servicespub.prod.api.aws.grupokabum.com.br
+#0.0.0.0 guardiao.itau.com
+#0.0.0.0 guardiao.itau.com.br
+
+#DOH
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 dns.cloudflare.com
+0.0.0.0 dns.cleanbrowsing.org
+0.0.0.0 dns.nextdns.io
+0.0.0.0 dns.google
+0.0.0.0 dns.google.com
+0.0.0.0 dns.google.com.br
+0.0.0.0 dns.adguard.com
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 dns.quad9.net
+0.0.0.0 dns1.quad9.net
+0.0.0.0 dns2.quad9.net
+0.0.0.0 dns3.quad9.net
+0.0.0.0 dns4.quad9.net
+0.0.0.0 dns5.quad9.net
+0.0.0.0 dns6.quad9.net
+0.0.0.0 dns7.quad9.net
+0.0.0.0 dns8.quad9.net
+0.0.0.0 dns9.quad9.net
+0.0.0.0 dns10.quad9.net
+0.0.0.0 dns11.quad9.net
+0.0.0.0 dns.rubyfish.cn
+0.0.0.0 doh-2.seby.io
+0.0.0.0 ibuki.cgnat.net
+0.0.0.0 doh.powerdns.org
+0.0.0.0 ads-doh.securedns.eu
+0.0.0.0 uncensored.any.dns.nixnet.xyz
+0.0.0.0 doh-de.blahdns.com
+0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 doh-fi.blahdns.com
+0.0.0.0 blahdns.com
+0.0.0.0 ecs-doh.dnswarden.con
+0.0.0.0 odvr.nic.cz
+0.0.0.0 doh.applied-privacy.net
+0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 dns.digitale-gesellschaft.ch
+0.0.0.0 doh.opendns.com
+0.0.0.0 dns.twnic.tw
+0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 doh.crypto.sx
+0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 dns.dns-over-https.com
+0.0.0.0 doh.securedns.eu
+0.0.0.0 dns.rubyfish.cn
+0.0.0.0 doh.dnswarden.com
+0.0.0.0 vdoh.captnemo.in
+0.0.0.0 doh.tiar.app
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 dnscrypt.info
+0.0.0.0 fi.doh.dns.snopyta.org
+0.0.0.0 doh2.blahdns.com
+0.0.0.0 odvr.nic.cz
+
+#******************* TESTE ***************************
+
+
+#outros:
+#0.0.0.0 ghostery.net
+#0.0.0.0 104.247.81.53
+#0.0.0.0 *.cn
+0.0.0.0 ddnf.adj.st
+0.0.0.0 adj.st
+0.0.0.0 reddit.map.fastly.net
+0.0.0.0 autopush.prod.mozaws.net
+0.0.0.0 contile-images.services.mozilla.com
+0.0.0.0 push.services.mozilla.com
+
+
+#### lg tv sala ###############
+#0.0.0.0 lgtvonline.lge.com
+#0.0.0.0 snu.lge.com
+#0.0.0.0 nrdp.nccp.netflix.com
+#0.0.0.0 api-global.netflix.com
+#0.0.0.0 br.lgtvsdp.com
+#0.0.0.0 br.rdx2.lgtvsdp.com
+#0.0.0.0 secure.netflix.com
+#0.0.0.0 occ-0-782-185.1.nflxso.net
+#0.0.0.0 nrdp.nccp.netflix.com
+#0.0.0.0 api-global.netflix.com
+#0.0.0.0 netmovieslg.ottvs.com.br
+#0.0.0.0 ichnaea.netflix.com
+#0.0.0.0 appboot.netflix.com
+#0.0.0.0 uiboot.netflix.com
+#0.0.0.0 ichnaea.netflix.com
+#0.0.0.0 nrdp.prod.ftl.netflix.com
+#0.0.0.0 br.lgrecommends.lgappstv.com
+0.0.0.0 js.monitor.azure.com
+0.0.0.0 srv.giraffic.com
+0.0.0.0 giraffic.com
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 pubads.g.doubleclick.net
+###### fim lg tv sala #######
+
+#0.0.0.0 keystone.mwbsys.com
+#0.0.0.0 www.gigabyte.com
+#0.0.0.0 search.tiktokv.com
+
+0.0.0.0 ocsp.digicert.com
+0.0.0.0 digicert.com
+0.0.0.0 crl.digicert.com
+0.0.0.0 crl1.digicert.com
+0.0.0.0 crl2.digicert.com
+0.0.0.0 crl3.digicert.com
+0.0.0.0 crl4.digicert.com
+0.0.0.0 crl5.digicert.com
+
+0.0.0.0 gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons1.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+
+0.0.0.0 platform-api.sharethis.com
+0.0.0.0 sharethis.com
+0.0.0.0 crl.verisign.com
+0.0.0.0 app.venganet.com
+0.0.0.0 arc.msn.com
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
+0.0.0.0 newedge.eu-central-1.edge.mycdn.live
+0.0.0.0 jsc.mgid.com
+0.0.0.0 mgid.com
+0.0.0.0 pt.moyens.net
+0.0.0.0 moyens.net
+0.0.0.0 pt.tipsandtrics.com
+0.0.0.0 tipsandtrics.com
+0.0.0.0 analytics.loop.games
+0.0.0.0 collector.github.com
+0.0.0.0 domain.opendns.com
+0.0.0.0 cxcs.microsoft.net
+0.0.0.0 csp.surveymonkey.com
+0.0.0.0 secure.surveymonkey.com
+0.0.0.0 surveymonkey-assets.s3.amazonaws.com
+0.0.0.0 surveymonkey.com
+0.0.0.0 prod.smassets.net
+0.0.0.0 api2.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 appsflyer.com
+0.0.0.0 110006555.collect.igodigital.com
+0.0.0.0 igodigital.com
+0.0.0.0 collect.igodigital.com
+
+##### fraude detecção provavelmente bradesco:
+0.0.0.0 evg.dnofd.com
+0.0.0.0 dnofd.com
+0.0.0.0 infocelularpush.scopus.com.br
+0.0.0.0 scopus.com.br
+#0.0.0.0 dynatrace.psg.bradesco.com.br
+#0.0.0.0 wscampanhas.bradesco
+#0.0.0.0 atualizacaocadastral.bradesco.com.br
+#0.0.0.0 www.m3.bradesco.com.br
+##### fim
+
+#0.0.0.0 www.yahoo.com
+#0.0.0.0 www.bing.com
+
+0.0.0.0 visualstudio.com
+0.0.0.0 services.visualstudio.com
+0.0.0.0 telemetry.malwarebytes.com
+
+#******************* RDJ *************************
+
+0.0.0.0 acesso.acesso-aplicativo.com
+0.0.0.0 acesso-aplicativo.com
+0.0.0.0 flurry.com
+0.0.0.0 cfg.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 preemptive.com
+
+#afeta drogarias pacheco pesquisa:
+#0.0.0.0 api.linximpulse.com
+
+#0.0.0.0 api.radar.cloudflare.com
+#0.0.0.0 amp.shazam.com
+#0.0.0.0 proxy.zeno.fm
+
+#0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 adswizz.com
+0.0.0.0 cdn.adswizz.com
+0.0.0.0 synchroboxadswizz.com
+0.0.0.0 cdn.pn.vg
+#0.0.0.0 filters.adtidy.org
+0.0.0.0 app.adjust.com
+0.0.0.0 cookies.pn.vg
+0.0.0.0 osp-assets.pn.vg
+0.0.0.0 analytics.mercadolivre.com
+0.0.0.0 analytics.mercadolivre.com.br
+0.0.0.0 selo.compreconfie.com.br
+0.0.0.0 iosite.reclameaqui.com.br
+0.0.0.0 bat.bing.com
+0.0.0.0 play.itunes.apple.com
+#0.0.0.0 time.apple.com
+0.0.0.0 itunes.apple.com
+0.0.0.0 apple.com
+#0.0.0.0 c.s-microsoft.com
+0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
+0.0.0.0 officeredir.microsoft.com
+0.0.0.0 products.office.com
+0.0.0.0 1p.br.claro.rcs.telephony.goog
+0.0.0.0 ecs.office.com
+0.0.0.0 office.com
+0.0.0.0 support.office.com
+0.0.0.0 officecdn.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 armmf.adobe.com0.0.0.0 br.claro.rcs.telephony.goog
+0.0.0.0 ipv4only.arpa
+0.0.0.0 example.org
+0.0.0.0 reddit.map.fastly.net
+0.0.0.0 clients.config.office.net
+0.0.0.0 unpkg.com
+0.0.0.0 www.baidu.com
+0.0.0.0 baidu.com
+0.0.0.0 codepen.io
+0.0.0.0 deff.nelreports.net
+0.0.0.0 nav.smartscreen.microsoft.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 api.msn.com
+0.0.0.0 aefd.nelreports.net
+0.0.0.0 client.wns.windows.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 data.microsoft.com
+0.0.0.0 wns.windows.com
+0.0.0.0 nelreports.net
+0.0.0.0 smartscreen.microsoft.com
+0.0.0.0 data.msn.com
+0.0.0.0 cp501.prod.do.dsp.mp.microsoft.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 mp.microsoft.com
+0.0.0.0 smartscreen-prod.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+
+0.0.0.0 log.cr.adobe.com
+0.0.0.0 dump.cr.adobe.com
+0.0.0.0 www.techsmith.com
+0.0.0.0 activation.cloud.techsmith.com
+0.0.0.0 oscount.techsmith.com
+0.0.0.0 updater.techsmith.com
+0.0.0.0 camtasiatudi.techsmith.com
+#0.0.0.0 graph.fbpigeon.com
+#0.0.0.0 go.microsoft.com
+#0.0.0.0 j.shared.global.fastly.net
+#0.0.0.0 cdnssl.clicktale.net
+#0.0.0.0 cooladata.kampyle.com
+#0.0.0.0 ringcentral.demdex.net
+#0.0.0.0 login.live.com
+#0.0.0.0 edgedl.me.gvt1.com
+#0.0.0.0 redirector.gvt1.com
+0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 umwatson.events.data.microsoft.com
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 cdn.onenote.net
+0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 onetrust.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 embed-fastly.wistia.com
+0.0.0.0 embed-ssl.wistia.com
+0.0.0.0 fast.wistia.com
+0.0.0.0 wistia.com
+0.0.0.0 delivery.trafficguard.ai
+0.0.0.0 trafficguard.ai
+0.0.0.0 event.getblue.io
+0.0.0.0 getblue.io
+0.0.0.0 dir-apis.samsungdm.com
+0.0.0.0 versioncheck.addons.mozilla.org
+0.0.0.0 splendapps.com
+0.0.0.0 resgaterapidopontos.com
+0.0.0.0 facily.app.link
+0.0.0.0 app.link
+0.0.0.0 static.criteo.net
+0.0.0.0 criteo.net
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 htlb.casalemedia.com
+0.0.0.0 casalemedia.com
+0.0.0.0 marfeel-d.openx.net
+0.0.0.0 openx.net
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 smartadserver.com
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 ice.360yield.com
+0.0.0.0 360yield.com
+0.0.0.0 a.teads.tv
+0.0.0.0 teads.tv
+0.0.0.0 cdn.viglink.com
+0.0.0.0 viglink.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 adsystem.com
+0.0.0.0 static.chartbeat.com
+0.0.0.0 chartbeat.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 hotjar.com
+0.0.0.0 t.dynad.net
+0.0.0.0 dynad.net
+0.0.0.0 cdn.krxd.net
+0.0.0.0 krxd.net
+0.0.0.0 tag.nacdmp.com
+0.0.0.0 nacdmp.com
+0.0.0.0 tag.navdmp.com
+0.0.0.0 navdmp.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 bww.clickvalidacao.com
+0.0.0.0 clickvalidacao.com
+0.0.0.0 cx-desbloqueio.com
+0.0.0.0 portal.cx-desbloqueio.com
+0.0.0.0 receitafederal.online
+0.0.0.0 desbloqueiosplmobile.com
+0.0.0.0 m.smsreativamento.com
+0.0.0.0 smsreativamento.com
+0.0.0.0 funexciteseveral.top
+0.0.0.0 www.ip2location.com
+0.0.0.0 ip2location.com
+0.0.0.0 appacessoregular.com
+0.0.0.0 appspot.com
+0.0.0.0 clarobr.co
+0.0.0.0 0i.is
+0.0.0.0 betmaster.io
+0.0.0.0 combinatronics.com
+0.0.0.0 combinatronics.io
+0.0.0.0 combinatronics.s3.amazonaws.com
+0.0.0.0 secure.gravatar.com
+0.0.0.0 gravatar.com
+0.0.0.0 s.gravatar.com
+0.0.0.0 1.gravatar.com
+0.0.0.0 2.gravatar.com
+0.0.0.0 tal.webvideocaster.com
+0.0.0.0 pt-br.appex-rf.msn.com
+0.0.0.0 finance.services.appex.bing.com
+0.0.0.0 use.typekit.com
+0.0.0.0 typekit.com
+0.0.0.0 ws-assets.zoominfo.com
+0.0.0.0 zoominfo.com
+#0.0.0.0 br.lgrecommends.lgappstv.com
+#0.0.0.0 br.ibsstat.lgappstv.com
+#0.0.0.0 br.ibs.lgappstv.com
+#0.0.0.0 br.lgtvsdp.com
+#0.0.0.0 br.rdx2.lgtvsdp.com
+0.0.0.0 weather.tile.appex.bing.com
+0.0.0.0 cdf-anon.xboxlive.com
+0.0.0.0 api.samsungosp.com
+0.0.0.0 rate.trustvox.com.br
+0.0.0.0 static.trustvox.com.br
+0.0.0.0 trustvox.com.br
+0.0.0.0 seal.siteblindado.com.br
+0.0.0.0 siteblindado.com.br
+0.0.0.0 seal.siteblindado.com
+0.0.0.0 siteblindado.com
+0.0.0.0 content.powerapps.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 collector-hpn.ghostery.net
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 sentry-cdn.com
+0.0.0.0 mrodevicemgr.officeapps.live.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 www.revouninstaller.com
+0.0.0.0 superuser.com
+0.0.0.0 whois.arin.net
+0.0.0.0 gitcdn.xyz
+0.0.0.0 epdg.ims.mnc005.mcc724.pub.3gppnetwork.org
+0.0.0.0 content-signature-2.cdn.mozilla.net
+0.0.0.0 wetten.com
+0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 lcs-robs.adobe.io
+0.0.0.0 lcs-cops.adobe.io
+0.0.0.0 cctypekit.adobe.io
+0.0.0.0 crl.certum.pl
+0.0.0.0 cdn.statically.io
+
+#*********
+
+0.0.0.0 3gppnetwork.org
+0.0.0.0 graph.instagram.com
+#0.0.0.0 www.iana.org
+#0.0.0.0 iana.org
+#0.0.0.0 www.icann.org
+#0.0.0.0 icann.org
+0.0.0.0 celular.cefcontato.com
+0.0.0.0 cefcontato.com
+0.0.0.0 pti.icann.org
+0.0.0.0 lorar.bar
+0.0.0.0 hnwcz.bar
+0.0.0.0 mavq.net
+0.0.0.0 www.controller-centrall.com
+0.0.0.0 controller-centrall.com
+0.0.0.0 itaucard.meuspontos.me
+0.0.0.0 meuspontos.me
+0.0.0.0 offredir.ru
+0.0.0.0 woshopshop.com
+0.0.0.0 kickoff.woshopshop.com
+0.0.0.0 m.clubeextra.vc
+0.0.0.0 clubeextra.vc
+0.0.0.0 onelink.me
+0.0.0.0 clubeextra.onelink.me
+0.0.0.0 beneficio.top
+0.0.0.0 valegas.beneficio.top
+0.0.0.0 valegas.auxilio.top
+0.0.0.0 valegas.auxlio.top
+0.0.0.0 auxlio.top
+0.0.0.0 auxilio.top
+0.0.0.0 beneficios.social
+0.0.0.0 valegas.beneficios.social
+0.0.0.0 splmobicefon.com
+0.0.0.0 1mc.co
+0.0.0.0 faturaltaucartao.com
+0.0.0.0 xiaomi.com
+0.0.0.0 xiaomi.net
+0.0.0.0 epdg.ims.mnc005.mcc724.pub.3gppnetwork.org
+0.0.0.0 content-signature-2.cdn.mozilla.net
+0.0.0.0 cdn.mozilla.net
+0.0.0.0 spendtotal.top
+0.0.0.0 orphanmention.top
+0.0.0.0 static.trustvox.com.br
+0.0.0.0 trustvox.com.br
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 officeapps.live.com
+0.0.0.0 mrodevicemgr.officeapps.live.com
+0.0.0.0 self.events.data.microsoft.com
+#0.0.0.0 www.msftconnecttest.com
+#0.0.0.0 support.microsoft.com 
+#0.0.0.0 1.bp.blogspot.com
+#0.0.0.0 2.bp.blogspot.com
+#0.0.0.0 3.bp.blogspot.com
+#0.0.0.0 4.bp.blogspot.com
+#0.0.0.0 5.bp.blogspot.com
+#0.0.0.0 6.bp.blogspot.com
+#0.0.0.0 7.bp.blogspot.com
+#0.0.0.0 8.bp.blogspot.com
+#0.0.0.0 9.bp.blogspot.com
+0.0.0.0 incoming.telemetry.mozilla.org
+#0.0.0.0 appvoceseguro.com
+0.0.0.0 ds.kaspersky.com
+#0.0.0.0 xtrapath1.izatcloud.net
+#0.0.0.0 xtrapath2.izatcloud.net
+#0.0.0.0 xtrapath3.izatcloud.net
+0.0.0.0 collector-hpn.ghostery.net
+0.0.0.0 pbs.twimg.com
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 config.teams.microsoft.com
+0.0.0.0 shgw.router
+0.0.0.0 win8.ipv6.microsoft.com
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 mzstatic.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 3lift.com
+0.0.0.0 m2.ai
+0.0.0.0 m.kwai.app
+0.0.0.0 tinypass.com
+0.0.0.0 ofertasglobo.oglobo.globo.com
+0.0.0.0 ofertasglobo.oglobo.globo.com.br
+0.0.0.0 avisosmslink.com
+0.0.0.0 chng.it
+0.0.0.0 www.change.org
+0.0.0.0 change.org
+0.0.0.0 peticaopublica.com
+0.0.0.0 app.amazonpedido.com
+0.0.0.0 amazonpedido.com
+0.0.0.0 www.digup.com
+0.0.0.0 digup.com
+0.0.0.0 embt.usertility.com
+0.0.0.0 ide.embarcadero.com
+0.0.0.0 license.codegear.com
+0.0.0.0 track.embarcadero.com
+0.0.0.0 getit.embarcadero.com
+0.0.0.0 comapi.embarcadero.com
+0.0.0.0 installers.codegear.com
+0.0.0.0 license.embarcadero.com
+0.0.0.0 installers.embarcadero.com
+0.0.0.0 license-stage.codegear.com
+0.0.0.0 getit-104.embarcadero.com
+0.0.0.0 getit-1032.embarcadero.com
+0.0.0.0 appanalytics.embarcadero.com
+0.0.0.0 object.ws.sanctx.embarcadero.com
+0.0.0.0 external.ws.sanctx.embarcadero.com
+0.0.0.0 services.server.v8.srs.sanctuary.codegear.com
+0.0.0.0 LicenseUsageServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+0.0.0.0 RegistrationServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+0.0.0.0 LicenseRenewalServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+
+#0.0.0.0 www.verizonenterprise.com
+#0.0.0.0 verizonenterprise.com
+#0.0.0.0 www.verizon.com
+#0.0.0.0 verizon.com
+0.0.0.0 embt.usertility.com
+0.0.0.0 ide.embarcadero.com
+0.0.0.0 license.codegear.com
+0.0.0.0 track.embarcadero.com
+0.0.0.0 getit.embarcadero.com
+0.0.0.0 comapi.embarcadero.com
+0.0.0.0 installers.codegear.com
+0.0.0.0 license.embarcadero.com
+0.0.0.0 installers.embarcadero.com
+0.0.0.0 license-stage.codegear.com
+0.0.0.0 getit-104.embarcadero.com
+0.0.0.0 getit-1032.embarcadero.com
+0.0.0.0 appanalytics.embarcadero.com
+0.0.0.0 object.ws.sanctx.embarcadero.com
+0.0.0.0 external.ws.sanctx.embarcadero.com
+0.0.0.0 services.server.v8.srs.sanctuary.codegear.com
+0.0.0.0 LicenseUsageServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+0.0.0.0 RegistrationServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+0.0.0.0 LicenseRenewalServicesImpl.services.server.v8.srs.sanctuary.codegear.com
+0.0.0.0 tsccloud.cloudapp.net
+0.0.0.0 ocsp2.globalsign.com
+0.0.0.0 globalsign.com
+#0.0.0.0 ajax.aspnetcdn.com
+#0.0.0.0 ajax.cloudflare.com
+0.0.0.0 vpssim.com
+0.0.0.0 gapk.techbigsdl.com
+0.0.0.0 techbigsdl.com
+0.0.0.0 s.w.org
+0.0.0.0 ssvwv.com
+0.0.0.0 collector.githubapp.com
+#afeta tv lg:
+#0.0.0.0 srv.giraffic.com
+#0.0.0.0 giraffic.com
+0.0.0.0 olympia.prod.mozaws.net
+0.0.0.0 mozaws.net
+0.0.0.0 collector-hpn.ghostery.net
+0.0.0.0 acdid.acdsystems.com
+0.0.0.0 autoupdate.geo.opera.com
+#0.0.0.0 collector-hpn.ghostery.net
+0.0.0.0 mypopads.com
+0.0.0.0 antiadblocksystems.com
+0.0.0.0 tags.t.tailtarget.com
+0.0.0.0 tailtarget.com
+#0.0.0.0 collector-hpn.ghostery.net
+
+0.0.0.0 gj.mmstat.com
+0.0.0.0 mmstat.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 collect.igodigital.com
+0.0.0.0 igodigital.com
+0.0.0.0 compreconfie.com.br
+0.0.0.0 topblockchainsolutions.nl
+0.0.0.0 traffic.alexa.com
+0.0.0.0 alexa.com
+0.0.0.0 helpscout.com
+0.0.0.0 hotapi.sgsnssdk.com
+0.0.0.0 sgsnssdk.com
+0.0.0.0 optimizely.com
+0.0.0.0 advertising.com
+0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 avisocerto.com
+0.0.0.0 yasni.bannertrack.net
+0.0.0.0 bannertrack.net
+0.0.0.0 resources.blogblog.com
+0.0.0.0 chromestatus.com
+0.0.0.0 googlestore.com
+0.0.0.0 appspot.com
+0.0.0.0 feeds.feedburner.com
+0.0.0.0 feedburner.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 onesignal.com
+0.0.0.0 optimizely.com
+0.0.0.0 advertising.com
+0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 tlx.3lift.com
+0.0.0.0 ap.lijit.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 analytics2.m2.ai
+0.0.0.0 advertising.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 globalapi.ad-xiaomi.com
+0.0.0.0 ad-xiaomi.com
+#0.0.0.0 ocsp.pki.goog
+
+
+0.0.0.0 eolin.com
+0.0.0.0 g.co
+0.0.0.0 appspot.com
+0.0.0.0 meebo.com
+0.0.0.0 panoramio.com
+0.0.0.0 socialgold.info
+0.0.0.0 googlealumni.com
+0.0.0.0 g.ezoic.net
+0.0.0.0 ezoic.net
+
+0.0.0.0 googleoptimize.com
+0.0.0.0 affex.org
+0.0.0.0 www.affex.org
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 connectivity-check.ubuntu.com
+0.0.0.0 eas3.msg.t-mobile.com
+0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 getpocket.cdn.mozilla.net
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 health.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 registry.my-netdata.io
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 upload.fp.measure.office.com
+0.0.0.0 upload2.fp.measure.office.com
+0.0.0.0 widget-mediator.zopim.com
+
+#SMARTV:
+#SAMSUNG:
+0.0.0.0 config.samsungads.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 samsung.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsungotn.net
+0.0.0.0 www.samsung.net
+0.0.0.0 ads.samsung.com
+#LG:
+#0.0.0.0 ngfts.lge.com
+#0.0.0.0 us.ad.lgsmartad.com
+#0.0.0.0 lgad.cjpowercast.com
+#0.0.0.0 edgesuite.net
+#0.0.0.0 us.info.lgsmartad.com
+#0.0.0.0 br.ad.lgsmartad.com
+#0.0.0.0 br.info.lgsmartad.com
+#0.0.0.0 lgsmartad.com
+#0.0.0.0 br.lgrecommends.lgappstv.com
+#0.0.0.0 br.rdx2.lgtvsdp.com
+#0.0.0.0 ottvsimg.ottvs.com.br
+#0.0.0.0 BR.ibs.lgappstv.com
+#0.0.0.0 BR.lgtvsdp.com
+#0.0.0.0 lgtvonline.lge.com
+
+#ROKU:
+0.0.0.0 amoeba.web.roku.com
+0.0.0.0 assets.sr.roku.com
+0.0.0.0 cloudservices.roku.com
+0.0.0.0 prod.mobile.roku.com
+0.0.0.0 wwwimg.roku.com
+
+0.0.0.0 media.net
+0.0.0.0 contextual.media.net
+0.0.0.0 sharethis.com
+0.0.0.0 ws.sharethis.com
+0.0.0.0 110004422.collect.igodigital.com
+0.0.0.0 collect.igodigital.com
+0.0.0.0 igodigital.com
+0.0.0.0 taboola.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 aolcdn.com
+0.0.0.0 s.aolcdn.com
+0.0.0.0 chartbeat.com
+0.0.0.0 static.chartbeat.com
+0.0.0.0 chaordicsystems.com
+0.0.0.0 static.chaordicsystems.com
+0.0.0.0 clevernt.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 hotjar.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 mpulse.net
+0.0.0.0 s.go-mpulse.net
+0.0.0.0 navdmp.com
+0.0.0.0 usr.navdmp.com
+0.0.0.0 marketo.com
+0.0.0.0 marketo.net
+0.0.0.0 ay.gy
+0.0.0.0 s0.2mdn.net
+0.0.0.0 files.adform.net
+
+
+0.0.0.0 accounts.firefox.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 firefox.settings.services.mozilla.com
+
+#mobile:
+0.0.0.0 vungle.com
+0.0.0.0 unity3d.com
+0.0.0.0 ads.unity3d.com
+0.0.0.0 ads.services.unity3d.com
+0.0.0.0 adcolony.com
+0.0.0.0 ads.snaptube.com
+0.0.0.0 ads.premium.snaptube.com
+0.0.0.0 inmob.com
+0.0.0.0 advert.gstatic.com
+0.0.0.0 admob.com
+0.0.0.0 analytics.localytics.com
+0.0.0.0 greystripe.com
+0.0.0.0 inmobi.com
+0.0.0.0 admax.nexage.com
+0.0.0.0 my.mobfox.com
+0.0.0.0 plus1.wapstart.ru
+0.0.0.0 madnet.ru
+0.0.0.0 inmobi.com
+0.0.0.0 mp.mydas.mobi
+0.0.0.0 millennialmedia.com
+0.0.0.0 appsdt.com
+0.0.0.0 run.admost.com
+0.0.0.0 mobile.admost.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 appnext.com
+0.0.0.0 flurry.com
+0.0.0.0 inmobicdn.net
+0.0.0.0 moatads.mopub.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 adc3-launch
+0.0.0.0 adcolony.com
+0.0.0.0 mobile-static.adsafeprotected
+0.0.0.0 applovin.com
+0.0.0.0 applvn.com
+0.0.0.0 appnext.hs
+0.0.0.0 live.chartboost.com
+0.0.0.0 www.dummy.com
+0.0.0.0 api.vungle.com
+0.0.0.0 pubnative.net
+0.0.0.0 supersonicads.com
+0.0.0.0 info.static.startappservice.com
+0.0.0.0 init.startappservice.com
+0.0.0.0 req.startappservice.com
+0.0.0.0 imp.startappservice.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 crashlytics.com
+0.0.0.0 udm.scorecardresearch.com
+0.0.0.0 adz.wattpad.com
+0.0.0.0 ad.api.kaffnet.com
+0.0.0.0 dsp.batmobil.net
+0.0.0.0 alta.eqmob.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 net.rayjump.com
+0.0.0.0 yandex.net
+0.0.0.0 appodeal.com
+0.0.0.0 amazonaws.com
+0.0.0.0 baidu.com
+0.0.0.0 tapas.net
+0.0.0.0 duapps.com
+0.0.0.0 smaato.com
+0.0.0.0 ad-mail.ru
+0.0.0.0 yandexadexchange.com
+0.0.0.0 yandex.com
+0.0.0.0 tapjoyads.com
+0.0.0.0 tapjoy.com
+0.0.0.0 ads.mopub.com
+
+0.0.0.0 mail.aol.de
+0.0.0.0 apple.com
+0.0.0.0 www.apple.com
+
+#TV LG:
+#0.0.0.0 br.lgtvsdp.com
+
+0.0.0.0 adsensecustomsearchads.com
+0.0.0.0 www.adsensecustomsearchads.com
+0.0.0.0 urchin.com
+0.0.0.0 www.urchin.com
+0.0.0.0 googletraveladservices.com
+0.0.0.0 www.googletraveladservices.com
+0.0.0.0 adwords.com
+0.0.0.0 www.adwords.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 *.crashlytics.com
+0.0.0.0 detectportal.firefox.com
+
+
+
+#*******************  FIM RDJ ***************************
+
+#************* TIKTOK *************
+
+
+# Tiktok tracking and fingerprinting hosts
+# If you want to totally block access to Tiktok on your network, use this list: https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
+
+#0.0.0.0 dm16-useast1a.byteoversea.com
+#0.0.0.0 byteoversea.com
+#0.0.0.0 musically.app.link
+#0.0.0.0 musically-alternate.app.link
+#0.0.0.0 app-measurement.com
+#0.0.0.0 dig.bdurl.net
+#0.0.0.0 dm.bytedance.net
+#0.0.0.0 byteoversea.com
+#0.0.0.0 abtest-sg.byteoversea.com
+#0.0.0.0 abtest-va-tiktok.byteoversea.com
+#0.0.0.0 aliva-sentry.byteoversea.com
+#0.0.0.0 developer-sg.byteoversea.com
+#0.0.0.0 dm-maliva-quic.byteoversea.com
+#0.0.0.0 dm-maliva16.byteoversea.com
+#0.0.0.0 dm16.byteoversea.com
+#0.0.0.0 frontier.byteoversea.com
+#0.0.0.0 gecko-sg.byteoversea.com
+#0.0.0.0 gecko-va.byteoversea.com
+#0.0.0.0 jsb-sg.byteoversea.com
+#0.0.0.0 jsb-va.byteoversea.com
+#0.0.0.0 log.byteoversea.com
+#0.0.0.0 log15.byteoversea.com
+#0.0.0.0 log16.byteoversea.com
+#0.0.0.0 maliva-mcs.byteoversea.com
+#0.0.0.0 mon.byteoversea.com
+#0.0.0.0 mon-va.byteoversea.com
+#0.0.0.0 rtlog.byteoversea.com
+#0.0.0.0 sdfp-sg.byteoversea.com
+#0.0.0.0 sdfp-va.byteoversea.com
+#0.0.0.0 sgali-mcs.byteoversea.com
+#0.0.0.0 smr-aliva.byteoversea.com
+#0.0.0.0 smr-sg.byteoversea.com
+#0.0.0.0 toblog.byteoversea.com
+#0.0.0.0 v16-ad.byteoversea.com
+#0.0.0.0 vaali-mcs.byteoversea.com
+#0.0.0.0 vas-alisg19.byteoversea.com
+#0.0.0.0 vas-alisg22-quic.byteoversea.com
+#0.0.0.0 vas-maliva.byteoversea.com
+#0.0.0.0 vas-maliva16.byteoversea.com
+#0.0.0.0 vas-maliva19.byteoversea.com
+#0.0.0.0 vas-maliva21.byteoversea.com
+#0.0.0.0 verification-va.byteoversea.com
+#0.0.0.0 verify-sg.byteoversea.com
+#0.0.0.0 xlog.byteoversea.com
+#0.0.0.0 xlog-va.byteoversea.com
+#0.0.0.0 ad-lb-alisg.byteoversea.net
+#0.0.0.0 ad-lb-maliva.byteoversea.net
+#0.0.0.0 equinix-iad-api.l.byteoversea.net
+#0.0.0.0 equinix-iad-cache01.l.byteoversea.net
+#0.0.0.0 equinix-sjc-v1.l.byteoversea.net
+#0.0.0.0 equinix-sjc-v2.l.byteoversea.net
+#0.0.0.0 mvaali1.l.byteoversea.net
+#0.0.0.0 mvaali2.l.byteoversea.net
+#0.0.0.0 sgali3.l.byteoversea.net
+#0.0.0.0 topbuzz-applog-alisg.l.byteoversea.net
+#0.0.0.0 vaali1.l.byteoversea.net
+#0.0.0.0 zong-khi-v1.l.byteoversea.net
+#0.0.0.0 zong-lhe-v1.l.byteoversea.net
+#0.0.0.0 maliva-normal-lb.byteoversea.net
+#0.0.0.0 security-lb-maliva.byteoversea.net
+#0.0.0.0 videoarch-lb-maliva.byteoversea.net
+#0.0.0.0 sgali1.ws.byteoversea.net
+#0.0.0.0 log.byteoversea.com.edgekey.net
+#0.0.0.0 log16.byteoversea.com.edgekey.net
+#0.0.0.0 i16-tb.isnssdk.com.edgekey.net
+#0.0.0.0 log-va.tiktokv.com.edgekey.net
+#0.0.0.0 applog.musical.ly.edgekey.net
+#0.0.0.0 jsb-va.musical.ly.edgekey.net
+#0.0.0.0 log2-useast2a.musical.ly.edgekey.net
+#0.0.0.0 rtlog.musical.ly.edgekey.net
+#0.0.0.0 developer-sg.byteoversea.com.edgesuite.net
+#0.0.0.0 gecko-sg.byteoversea.com.edgesuite.net
+#0.0.0.0 mon.byteoversea.com.edgesuite.net
+#0.0.0.0 mon-va.byteoversea.com.edgesuite.net
+#0.0.0.0 sdfp-va.byteoversea.com.edgesuite.net
+#0.0.0.0 verification-va.byteoversea.com.edgesuite.net
+#0.0.0.0 xlog.byteoversea.com.edgesuite.net
+#0.0.0.0 xlog-va.byteoversea.com.edgesuite.net
+#0.0.0.0 gecko-va.tiktokv.com.edgesuite.net
+#0.0.0.0 log.tiktokv.com.edgesuite.net
+#0.0.0.0 mon.tiktokv.com.edgesuite.net
+#0.0.0.0 mon-va.tiktokv.com.edgesuite.net
+#0.0.0.0 xlog.tiktokv.com.edgesuite.net
+#0.0.0.0 gecko-va.musical.ly.edgesuite.net
+#0.0.0.0 log2.musical.ly.edgesuite.net
+#0.0.0.0 mon.musical.ly.edgesuite.net
+#0.0.0.0 xlog-va.musical.ly.edgesuite.net
+#0.0.0.0 a15-tb.isnssdk.com
+#0.0.0.0 a16-tb.isnssdk.com
+#0.0.0.0 cdn.isnssdk.com
+#0.0.0.0 client_monitor.isnssdk.com
+#0.0.0.0 clientmonitor.isnssdk.com
+#0.0.0.0 dm.isnssdk.com
+#0.0.0.0 f-p-va.isnssdk.com
+#0.0.0.0 hotapi-va.isnssdk.com
+#0.0.0.0 i.isnssdk.com
+#0.0.0.0 i-tb.isnssdk.com
+#0.0.0.0 i16-tb.isnssdk.com
+#0.0.0.0 ichannel.isnssdk.com
+#0.0.0.0 ichannel-tb.isnssdk.com
+#0.0.0.0 isub.isnssdk.com
+#0.0.0.0 isub-tb.isnssdk.com
+#0.0.0.0 log.isnssdk.com
+#0.0.0.0 log-tb.isnssdk.com
+#0.0.0.0 mon.isnssdk.com
+#0.0.0.0 monitor.isnssdk.com
+#0.0.0.0 notifyback-va.isnssdk.com
+#0.0.0.0 open.isnssdk.com
+#0.0.0.0 patrol-sg.isnssdk.com
+#0.0.0.0 rtlog.isnssdk.com
+#0.0.0.0 vas.isnssdk.com
+#0.0.0.0 app.musemuse.cn
+#0.0.0.0 share.musemuse.cn
+#0.0.0.0 applog.musical.ly
+#0.0.0.0 applog-useast1a.musical.ly
+#0.0.0.0 applog-useast2a.musical.ly
+#0.0.0.0 dm16.musical.ly
+#0.0.0.0 frontier.musical.ly
+#0.0.0.0 gecko-va.musical.ly
+#0.0.0.0 gecko-va-useast1a.musical.ly
+#0.0.0.0 gecko-va-useast2a.musical.ly
+#0.0.0.0 jsb-va.musical.ly
+#0.0.0.0 log.musical.ly
+#0.0.0.0 log2.musical.ly
+#0.0.0.0 log2-useast1a.musical.ly
+#0.0.0.0 log2-useast2a.musical.ly
+#0.0.0.0 mon.musical.ly
+#0.0.0.0 rtlog.musical.ly
+#0.0.0.0 sdfp-va.musical.ly
+#0.0.0.0 xlog-va.musical.ly
+#0.0.0.0 snssdk1180.onelink.me
+#0.0.0.0 snssdk1233.onelink.me
+#0.0.0.0 dm.pstatp.com
+#0.0.0.0 dm.sgsnssdk.com
+#0.0.0.0 i-tb.sgsnssdk.com
+#0.0.0.0 isub-tb.sgsnssdk.com
+#0.0.0.0 log.sgsnssdk.com
+#0.0.0.0 log-tb.sgsnssdk.com
+#0.0.0.0 mon.sgsnssdk.com
+#0.0.0.0 vas.sgsnssdk.com
+#0.0.0.0 gecko-va.snssdk.com
+#0.0.0.0 i.snssdk.com
+#0.0.0.0 ib.snssdk.com
+#0.0.0.0 is.snssdk.com
+#0.0.0.0 log.snssdk.com
+#0.0.0.0 mcs.snssdk.com
+#0.0.0.0 mon.snssdk.com
+#0.0.0.0 patrol.snssdk.com
+#0.0.0.0 patrol-sg.snssdk.com
+#0.0.0.0 rc.snssdk.com
+#0.0.0.0 verify.snssdk.com
+#0.0.0.0 ads.tiktok.com
+#0.0.0.0 analytics.tiktok.com
+#0.0.0.0 test-ads.tiktok.com
+#0.0.0.0 applog.tiktokv.com
+#0.0.0.0 dm16.tiktokv.com
+#0.0.0.0 dm16-alisg.tiktokv.com
+#0.0.0.0 dm16-useast1a.tiktokv.com
+#0.0.0.0 dm16-useast2a.tiktokv.com
+#0.0.0.0 dm16-va.tiktokv.com
+#0.0.0.0 frontier.tiktokv.com
+#0.0.0.0 frontier-va.tiktokv.com
+#0.0.0.0 gecko-sg.tiktokv.com
+#0.0.0.0 gecko-va.tiktokv.com
+#0.0.0.0 gecko16-normal-c-useast1a.tiktokv.com
+#0.0.0.0 gecko16-normal-c-useast2a.tiktokv.com
+#0.0.0.0 ib.tiktokv.com
+#0.0.0.0 jsb-va.tiktokv.com
+#0.0.0.0 log.tiktokv.com
+#0.0.0.0 log-va.tiktokv.com
+#0.0.0.0 log16-normal-c-useast1a.tiktokv.com
+#0.0.0.0 log16-normal-c-useast2a.tiktokv.com
+#0.0.0.0 mcs-va.tiktokv.com
+#0.0.0.0 mcs-va-useast2a.tiktokv.com
+#0.0.0.0 mon.tiktokv.com
+#0.0.0.0 mon-va.tiktokv.com
+#0.0.0.0 rtlog.tiktokv.com
+#0.0.0.0 sdfp-va.tiktokv.com
+#0.0.0.0 verification-va.tiktokv.com
+#0.0.0.0 xlog.tiktokv.com
+#0.0.0.0 xlog-va.tiktokv.com
+#0.0.0.0 business.topbuzz.com
+#0.0.0.0 business-sg.topbuzz.com
+#0.0.0.0 dm.toutiao.com
+#0.0.0.0 wshifen.com
+#0.0.0.0 www.wshifen.com
+#0.0.0.0 tiktokv.com
+#0.0.0.0 log.tiktokv.com
+
+
+#************* FIM TIKTOK *************
+
+
+
+0.0.0.0 adclick.g.douclick.net
+#shoptime
+0.0.0.0 *.adssrvs.com
+0.0.0.0 link.adssrvs.com
+0.0.0.0 adssrvs.com
+
+0.0.0.0 corel.com
+0.0.0.0 apps.corel.com
+0.0.0.0 mc.corel.com
+
+0.0.0.0 aquitemsignificados.online
+0.0.0.0 www.bet365.com
+0.0.0.0 bet365.com
+#0.0.0.0 ads.lomadee.com
+#0.0.0.0 www.lomadee.com
+
+#0.0.0.0 qj-in-f95.1e100.net
+#0.0.0.0 dl.dropboxusercontent.com
+
+0.0.0.0 www.linkbucks.com
+0.0.0.0 cameraprive.com
+
+0.0.0.0 mydas.mobi
+0.0.0.0 ads.mp.mydas.mobi
+0.0.0.0 cvt.mydas.mobi
+0.0.0.0 millennialmedia.com
+0.0.0.0 androidsdk.ads.mp.mydas.mobi
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 i.w.sandbox.inmobi.com
+0.0.0.0 inmobi.com
+
+0.0.0.0 ws.livepcsupport.com
+0.0.0.0 livepcsupport.com
+0.0.0.0 www.livepcsupport.com
+0.0.0.0 oboticario.premios.me
+0.0.0.0 premios.me
+
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.netdf.telemetry.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 pre.footprintpredict.com 
+
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+
+0.0.0.0 r.acdsee.com
+0.0.0.0 acdsee.com
+0.0.0.0 www.acdsee.com
+
+0.0.0.0 marketing.dropbox.com
+
+0.0.0.0 beacons.extremereach.io
+0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 secure.insightexpressai.com
+0.0.0.0 dts.innovid.com
+0.0.0.0 s0.2mdn.net
+
+0.0.0.0 *.v.liveperson.net
+0.0.0.0 v.liveperson.net
+0.0.0.0 *.liveperson.net
+0.0.0.0 liveperson.net
+0.0.0.0 liveperson.com
+0.0.0.0 *.liveperson.com
+
+0.0.0.0 *.godaddy.com
+0.0.0.0 ocsp.godaddy.com
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 *.comodoca.com
+0.0.0.0 ocsp.comodoca.com
+0.0.0.0 comodoca.com
+
+0.0.0.0 www.suporteatacadistaa.com.br
+0.0.0.0 bit.do
+0.0.0.0 www.dardcann.party
+0.0.0.0 bridgeph1.zgxuanhao.com
+0.0.0.0 bridgeph2.zgxuanhao.com
+0.0.0.0 bridgeph3.zgxuanhao.com
+0.0.0.0 bridgeph4.zgxuanhao.com
+0.0.0.0 bridgeph5.zgxuanhao.com
+0.0.0.0 bridgeph6.zgxuanhao.com
+0.0.0.0 bridgeph7.zgxuanhao.com
+0.0.0.0 bridgeph8.zgxuanhao.com
+0.0.0.0 bridgeph9.zgxuanhao.com
+0.0.0.0 files.adform.net
+0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 pixel.moatads.com
+0.0.0.0 rtd.tubemogul.com
+0.0.0.0 fwmrm.net
+0.0.0.0 innovid.com
+0.0.0.0 2mdn.net
+0.0.0.0 fwmrm.net
+0.0.0.0 innovid.com
+0.0.0.0 2mdn.net 
+
+0.0.0.0 rr.com
+0.0.0.0 res.rr.com
+0.0.0.0 socal.res.rr.com
+0.0.0.0 bezeqint.net
+0.0.0.0 red.bezeqint.net
+
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s1.2mdn.net
+0.0.0.0 dts.innovid.com
+0.0.0.0 2975c.v.fwmrm.net
+
+0.0.0.0 mail.totalizemail.com.br
+0.0.0.0 www.totalizemail.com.br
+0.0.0.0 totalizemail.com.br
+0.0.0.0 aprovacaoweb.totalizemail.com.br
+
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 practivate.adobe.com 
+0.0.0.0 activate.adobe.com
+
+0.0.0.0 a248.e.akamai.net
+0.0.0.0 zb.akamaitech.net
+0.0.0.0 zm-1.akamaitech.net
+0.0.0.0 zc.akamaitech.net
+0.0.0.0 zh.akamaitech.net
+0.0.0.0 ns5-193.akamaitech.net
+0.0.0.0 zg.akamaitech.net
+0.0.0.0 ns2-193.akamaitech.net
+0.0.0.0 ze.akamaitech.net
+0.0.0.0 zf.akamaitech.net
+0.0.0.0 zi.akamaitech.net
+0.0.0.0 za.akamaitech.net
+0.0.0.0 ns4-193.akamaitech.net
+0.0.0.0 zd.akamaitech.net
+0.0.0.0 ns3-193.akamaitech.net
+
+0.0.0.0 install.nero.com
+
+0.0.0.0 acdid.acdsystems.com
+0.0.0.0 install.nero.com
+0.0.0.0 esellerate.net
+0.0.0.0 googleweblight.com
+0.0.0.0 www.esellerate.net
+0.0.0.0 wwww.googleweblight.com
+
+0.0.0.0 nova.customers.biocatch.com
+0.0.0.0 biocatch.com
+0.0.0.0 dmp-ad.predicta.net
+0.0.0.0 dmpstatic.predicta.net
+0.0.0.0 predicta.net
+0.0.0.0 adserver.adnexio.com
+0.0.0.0 adnexio.com
+0.0.0.0 tbrs.raptorsmartadvisor.com
+0.0.0.0 static.chaordicsystems.com
+0.0.0.0 chaordicsystems.com
+0.0.0.0 cookiematch.chaordicsystems.com
+0.0.0.0 trk.adbutter.net
+0.0.0.0 adv.r7.com
+0.0.0.0 oas.adservingml.com
+0.0.0.0 ad.adserverplus.com
+0.0.0.0 ad.doubleclick.com
+0.0.0.0 ad.adserverplus.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 platform.linkedin.com
+0.0.0.0 query.yahooapis.com
+0.0.0.0 static.licdn.com
+0.0.0.0 alaindeneuville.net
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 serving-sys.com
+0.0.0.0 www.serving-sys.com
+0.0.0.0 www.ivoluntarios.org.br
+0.0.0.0 apps.tejji.com
+0.0.0.0 adswarez.com
+0.0.0.0 service.tejji.com 
+0.0.0.0 tejji.cloudapp.net 
+0.0.0.0 tejji.com 
+0.0.0.0 www.tejji.com 
+0.0.0.0 statse.webtrendslive.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 www.webtrendslive.com
+0.0.0.0 static.webtrendslive.com
+0.0.0.0 www.hao123.com
+0.0.0.0 www.baidu.com
+0.0.0.0 www.cpmterra.com
+0.0.0.0 ads.clubedohardware.com.br
+0.0.0.0 en.gravatar.com
+0.0.0.0 br.gravatar.com
+0.0.0.0 www.gravatar.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 www.quantserve.com
+0.0.0.0 caspionlog.appspot.com
+0.0.0.0 log.caspion.com
+0.0.0.0 static.adzerk.net
+0.0.0.0 www.adzerk.net
+0.0.0.0 gae.caspion.com
+0.0.0.0 www.caspion.com
+0.0.0.0 www.invisionpower.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 i.po.st
+0.0.0.0 platform.twitter.com
+0.0.0.0 spd.zapto.org
+0.0.0.0 tmm-tn.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 mozsocial.cliqz.com
+0.0.0.0 auth.services.mozilla.com
+0.0.0.0 activations.cdn.mozilla.net
+0.0.0.0 services.mozilla.com
+0.0.0.0 api.accounts.firefox.com
+0.0.0.0 marketplace.firefox.com
+0.0.0.0 crash-stats.mozilla.com
+0.0.0.0 snippets.mozilla.com
+0.0.0.0 add.my.yahoo.com
+0.0.0.0 input.mozilla.org
+0.0.0.0 support.mozilla.org
+0.0.0.0 exturl.info
+0.0.0.0 search.flashpeak.com
+0.0.0.0 ads.us.e-planning.net
+0.0.0.0 t.twenga.com.br
+0.0.0.0 hub.hardware.com.br
+0.0.0.0 ip77.baboomail.com.br
+0.0.0.0 baboomail.com.br
+0.0.0.0 msn.buscape.com.br
+0.0.0.0 tracker.buscape.com.br
+0.0.0.0 cas.criteo.com
+0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 whos.amung.us
+0.0.0.0 www.sqmvendas.com.br
+0.0.0.0 www.nocc.sqmvendas.com.br
+0.0.0.0 ads2.adsafiliados.com.br
+0.0.0.0 ads.adsafiliados.com.br
+0.0.0.0 www.xat.com
+0.0.0.0 30boxes.com
+0.0.0.0 statse.iad.webtrendslive.com
+0.0.0.0 links10.com.br
+0.0.0.0 www.links10.com.br
+0.0.0.0 libs.coremetrics.com
+0.0.0.0 sso.buscapecompany.com
+0.0.0.0 templates.buscape.com
+0.0.0.0 ivitrine.buscape.com
+0.0.0.0 cpn.cazamba.com
+0.0.0.0 clicks.beap.bc.yahoo.com
+0.0.0.0 bc.yahoo.com
+0.0.0.0 ia.nspmotion.com
+0.0.0.0 rd.yahoo.com
+0.0.0.0 cgi.adobe.com
+0.0.0.0 www-da1.adobe.com
+0.0.0.0 exchange.avlab.comodo.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 www.ophertas.net
+0.0.0.0 spynet2.microsoft.com
+0.0.0.0 spynettest.microsoft.com
+0.0.0.0 ieonline.microsoft.com
+0.0.0.0 ieonline.microsoft.com.br
+0.0.0.0 distribution.zoom.com.br
+0.0.0.0 www.godaddy.com
+0.0.0.0 www.results.com
+0.0.0.0 www.llnw.net
+0.0.0.0 www.neemu.com
+0.0.0.0 www.neemu.com.br
+0.0.0.0 distribution.zoom.com.br
+0.0.0.0 www.markmonitor.com
+0.0.0.0 www.markmonitor.com.br
+0.0.0.0 uweb.unear.net
+0.0.0.0 ad.zanox.com
+0.0.0.0 www.aznox.com
+0.0.0.0 www.shoppingisgreat.net
+0.0.0.0 www.oppuz.com
+0.0.0.0 reverse.coremetrics.com
+0.0.0.0 www.coremetrics.com
+0.0.0.0 wildcard.centraldedesejos.com
+0.0.0.0 www.centraldedesejos.com
+0.0.0.0 wildcard.centraldedesejos.com.br
+0.0.0.0 centraldedesejos.com.br
+0.0.0.0 oas.adservingml.com
+0.0.0.0 display.vitrines.in
+0.0.0.0 go.epson.com
+0.0.0.0 www.gruponewcomm.com.br
+0.0.0.0 www.kochtavares.com.br
+0.0.0.0 www.gruponewcomm.com
+0.0.0.0 www.kochtavares.com
+0.0.0.0 www.markmonitor.com
+0.0.0.0 www.level3.com
+0.0.0.0 www.level3.com.br
+0.0.0.0 www.apowersoft.com
+0.0.0.0 www.apowersoft.com.br
+0.0.0.0 ads.yimg.com
+0.0.0.0 www.adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 www.bigfineads.com
+0.0.0.0 js.bigfineads.com
+0.0.0.0 www.vizury.com
+0.0.0.0 a.rad.msn.com
+0.0.0.0 ad.uk.doubleclick.net
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 ad.yieldmanager.com.br
+0.0.0.0 ads.dennisnet.co.uk
+0.0.0.0 www.alexa.com
+0.0.0.0 b.rad.msn.com
+0.0.0.0 www.blogads.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 www.exponential.com
+0.0.0.0 www.intelli-direct.com
+0.0.0.0 www.intellitxt.com
+0.0.0.0 rad.msn.com
+0.0.0.0 www.rmxads.com
+0.0.0.0 xpcs.ads.yahoo.com
+0.0.0.0 www.yieldmanager.com
+0.0.0.0 www.yieldmanager.com.br
+0.0.0.0 ad.globo.com
+0.0.0.0 ads.globo.com
+0.0.0.0 ads1.globo.com
+0.0.0.0 ads2.globo.com
+0.0.0.0 ads3.globo.com
+0.0.0.0 vitrines.globo.com
+0.0.0.0 www.ambaragencia.com.br
+0.0.0.0 ads.abril.com.br
+0.0.0.0 pubshop.img.uol.com.br
+0.0.0.0 clicklogger.rm.uol.com.br
+0.0.0.0 www.jsuol.com
+0.0.0.0 me.jsuol.com
+0.0.0.0 tm.uol.com.br
+0.0.0.0 www.sharethis.com
+0.0.0.0 edge.sharethis.com
+0.0.0.0 wd.sharethis.com
+0.0.0.0 mi.adinterax.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 clicks.beap.bc.yahoo.com
+0.0.0.0 adclient-af.lp.uol.com.br
+0.0.0.0 bn.imguol.com
+0.0.0.0 static.realmediadigital.com
+0.0.0.0 rm.estadao.com.br
+0.0.0.0 www.hotwords.com
+0.0.0.0 www.hotwords.com.br
+0.0.0.0 www.groovinads.com
+0.0.0.0 www.groovinads.com.br
+0.0.0.0 ads01.groovinads.com
+0.0.0.0 ads02.groovinads.com
+0.0.0.0 ads03.groovinads.com
+0.0.0.0 ads04.groovinads.com
+0.0.0.0 ads05.groovinads.com
+0.0.0.0 ads06.groovinads.com
+
+##################### COMODO ##########################
+0.0.0.0 www.cscglobal.com
+0.0.0.0 www.cscprotectsbrands.com
+0.0.0.0 www.comodogroup.com
+
+##################### VISUAL STUDIO ##########################
+0.0.0.0 ccslabs.visualstudio.com
+
+##################### COREL ##########################
+0.0.0.0 origin-mc.corel.com
+0.0.0.0 apps.corel.com
+
+##################### CAMTASIA ##########################
+
+0.0.0.0 techsmith.com
+0.0.0.0 www.techsmith.com
+0.0.0.0 activation.cloud.techsmith.com
+0.0.0.0 oscount.techsmith.com
+0.0.0.0 updater.techsmith.com
+0.0.0.0 camtasiatudi.techsmith.com
+0.0.0.0 tsccloud.cloudapp.net
+0.0.0.0 assets.cloud.techsmith.com
+
+##################### ADOBE ##########################
+
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 practivate.adobe.com 
+0.0.0.0 activate.adobe.com
+
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 na2m-pr.licenses.adobe.com
+0.0.0.0 na4r.services.adobe.com
+0.0.0.0 ims-na1-prprod.adobelogin.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 practivate.adobe.de
+0.0.0.0 209-34-83-73.ood.opsource.net
+0.0.0.0 3dns.adobe.com
+0.0.0.0 3dns-1.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-4.adobe.com
+0.0.0.0 3dns-5.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 activate-sea.adobe.de
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 activate-sjc0.adobe.de
+0.0.0.0 activate.adobe.com
+0.0.0.0 activate.adobe.de
+0.0.0.0 activate.wip.adobe.com
+0.0.0.0 activate.wip1.adobe.com
+0.0.0.0 activate.wip2.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 activate.wip3.adobe.de
+0.0.0.0 activate.wip4.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns.adobe.de
+0.0.0.0 adobe-dns-1.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-2.adobe.de
+0.0.0.0 adobe-dns-3.adobe.de
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 adobe-dns-4.adobe.com
+0.0.0.0 adobe.activate.com
+0.0.0.0 adobeereg.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 ereg.adobe.de
+0.0.0.0 ereg.wip.adobe.com
+0.0.0.0 ereg.wip1.adobe.com
+0.0.0.0 ereg.wip2.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 ereg.wip4.adobe.com
+0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 hl2rcv.adobe.de
+0.0.0.0 practivate.adobe
+0.0.0.0 practivate.adobe.ipp
+0.0.0.0 practivate.adobe.newoa
+0.0.0.0 practivate.adobe.ntp
+0.0.0.0 wip.adobe.com
+0.0.0.0 wip1.adobe.com
+0.0.0.0 wip2.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 wip4.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 s-2.adobe.com
+0.0.0.0 s-3.adobe.com
+0.0.0.0 wwis-dubc1-vip100.adobe.com #192.1100.8.100
+0.0.0.0 wwis-dubc1-vip101.adobe.com #192.1100.8.101
+0.0.0.0 wwis-dubc1-vip102.adobe.com #192.1100.8.102
+0.0.0.0 wwis-dubc1-vip103.adobe.com #192.1100.8.103
+0.0.0.0 wwis-dubc1-vip104.adobe.com #192.1100.8.104
+0.0.0.0 wwis-dubc1-vip105.adobe.com #192.1100.8.105
+0.0.0.0 wwis-dubc1-vip106.adobe.com #192.1100.8.106
+0.0.0.0 wwis-dubc1-vip107.adobe.com #192.1100.8.107
+0.0.0.0 wwis-dubc1-vip108.adobe.com #192.1100.8.108
+0.0.0.0 wwis-dubc1-vip109.adobe.com #192.1100.8.109
+0.0.0.0 wwis-dubc1-vip110.adobe.com #192.1110.8.110
+0.0.0.0 wwis-dubc1-vip111.adobe.com #192.1110.8.111
+0.0.0.0 wwis-dubc1-vip112.adobe.com #192.1110.8.112
+0.0.0.0 wwis-dubc1-vip113.adobe.com #192.1110.8.113
+0.0.0.0 wwis-dubc1-vip114.adobe.com #192.1110.8.114
+0.0.0.0 wwis-dubc1-vip115.adobe.com #192.1110.8.115
+0.0.0.0 wwis-dubc1-vip116.adobe.com #192.1110.8.116
+0.0.0.0 wwis-dubc1-vip117.adobe.com #192.1110.8.117
+0.0.0.0 wwis-dubc1-vip118.adobe.com #192.1110.8.118
+0.0.0.0 wwis-dubc1-vip119.adobe.com #192.1110.8.119
+0.0.0.0 wwis-dubc1-vip120.adobe.com #192.1120.8.120
+0.0.0.0 wwis-dubc1-vip121.adobe.com #192.1120.8.121
+0.0.0.0 wwis-dubc1-vip122.adobe.com #192.1120.8.122
+0.0.0.0 wwis-dubc1-vip123.adobe.com #192.1120.8.123
+0.0.0.0 wwis-dubc1-vip124.adobe.com #192.1120.8.124
+0.0.0.0 wwis-dubc1-vip125.adobe.com #192.1120.8.125
+0.0.0.0 wwis-dubc1-vip30.adobe.com #192.150.8.30
+0.0.0.0 wwis-dubc1-vip31.adobe.com #192.150.8.31
+0.0.0.0 wwis-dubc1-vip32.adobe.com #192.150.8.32
+0.0.0.0 wwis-dubc1-vip33.adobe.com #192.150.8.33
+0.0.0.0 wwis-dubc1-vip34.adobe.com #192.150.8.34
+0.0.0.0 wwis-dubc1-vip35.adobe.com #192.150.8.35
+0.0.0.0 wwis-dubc1-vip36.adobe.com #192.150.8.36
+0.0.0.0 wwis-dubc1-vip37.adobe.com #192.150.8.37
+0.0.0.0 wwis-dubc1-vip38.adobe.com #192.150.8.38
+0.0.0.0 wwis-dubc1-vip39.adobe.com #192.150.8.39
+0.0.0.0 wwis-dubc1-vip40.adobe.com #192.150.8.40
+0.0.0.0 wwis-dubc1-vip41.adobe.com #192.150.8.41
+0.0.0.0 wwis-dubc1-vip42.adobe.com #192.150.8.42
+0.0.0.0 wwis-dubc1-vip43.adobe.com #192.150.8.43
+0.0.0.0 wwis-dubc1-vip44.adobe.com #192.150.8.44
+0.0.0.0 wwis-dubc1-vip45.adobe.com #192.150.8.45
+0.0.0.0 wwis-dubc1-vip46.adobe.com #192.150.8.46
+0.0.0.0 wwis-dubc1-vip47.adobe.com #192.150.8.47
+0.0.0.0 wwis-dubc1-vip48.adobe.com #192.150.8.48
+0.0.0.0 wwis-dubc1-vip49.adobe.com #192.150.8.49
+0.0.0.0 wwis-dubc1-vip50.adobe.com #192.150.8.50
+0.0.0.0 wwis-dubc1-vip51.adobe.com #192.150.8.51
+0.0.0.0 wwis-dubc1-vip52.adobe.com #192.150.8.52
+0.0.0.0 wwis-dubc1-vip53.adobe.com #192.150.8.53
+0.0.0.0 wwis-dubc1-vip54.adobe.com #192.150.8.54
+0.0.0.0 wwis-dubc1-vip55.adobe.com #192.150.8.55
+0.0.0.0 wwis-dubc1-vip56.adobe.com #192.150.8.56
+0.0.0.0 wwis-dubc1-vip57.adobe.com #192.150.8.57
+0.0.0.0 wwis-dubc1-vip58.adobe.com #192.150.8.58
+0.0.0.0 wwis-dubc1-vip59.adobe.com #192.150.8.59
+0.0.0.0 wwis-dubc1-vip60.adobe.com #192.160.8.60
+0.0.0.0 wwis-dubc1-vip60.adobe.de
+0.0.0.0 wwis-dubc1-vip61.adobe.com #192.160.8.61
+0.0.0.0 wwis-dubc1-vip62.adobe.com #192.160.8.62
+0.0.0.0 wwis-dubc1-vip63.adobe.com #192.160.8.63
+0.0.0.0 wwis-dubc1-vip64.adobe.com #192.160.8.64
+0.0.0.0 wwis-dubc1-vip65.adobe.com #192.160.8.65
+0.0.0.0 wwis-dubc1-vip66.adobe.com #192.160.8.66
+0.0.0.0 wwis-dubc1-vip67.adobe.com #192.160.8.67
+0.0.0.0 wwis-dubc1-vip68.adobe.com #192.160.8.68
+0.0.0.0 wwis-dubc1-vip69.adobe.com #192.160.8.69
+0.0.0.0 wwis-dubc1-vip70.adobe.com #192.170.8.70
+0.0.0.0 wwis-dubc1-vip71.adobe.com #192.170.8.71
+0.0.0.0 wwis-dubc1-vip72.adobe.com #192.170.8.72
+0.0.0.0 wwis-dubc1-vip73.adobe.com #192.170.8.73
+0.0.0.0 wwis-dubc1-vip74.adobe.com #192.170.8.74
+0.0.0.0 wwis-dubc1-vip75.adobe.com #192.170.8.75
+0.0.0.0 wwis-dubc1-vip76.adobe.com #192.170.8.76
+0.0.0.0 wwis-dubc1-vip77.adobe.com #192.170.8.77
+0.0.0.0 wwis-dubc1-vip78.adobe.com #192.170.8.78
+0.0.0.0 wwis-dubc1-vip79.adobe.com #192.170.8.79
+0.0.0.0 wwis-dubc1-vip80.adobe.com #192.180.8.80
+0.0.0.0 wwis-dubc1-vip81.adobe.com #192.180.8.81
+0.0.0.0 wwis-dubc1-vip82.adobe.com #192.180.8.82
+0.0.0.0 wwis-dubc1-vip83.adobe.com #192.180.8.83
+0.0.0.0 wwis-dubc1-vip84.adobe.com #192.180.8.84
+0.0.0.0 wwis-dubc1-vip85.adobe.com #192.180.8.85
+0.0.0.0 wwis-dubc1-vip86.adobe.com #192.180.8.86
+0.0.0.0 wwis-dubc1-vip87.adobe.com #192.180.8.87
+0.0.0.0 wwis-dubc1-vip88.adobe.com #192.180.8.88
+0.0.0.0 wwis-dubc1-vip89.adobe.com #192.180.8.89
+0.0.0.0 wwis-dubc1-vip90.adobe.com #192.190.8.90
+0.0.0.0 wwis-dubc1-vip91.adobe.com #192.190.8.91
+0.0.0.0 wwis-dubc1-vip92.adobe.com #192.190.8.92
+0.0.0.0 wwis-dubc1-vip93.adobe.com #192.190.8.93
+0.0.0.0 wwis-dubc1-vip94.adobe.com #192.190.8.94
+0.0.0.0 wwis-dubc1-vip95.adobe.com #192.190.8.95
+0.0.0.0 wwis-dubc1-vip96.adobe.com #192.190.8.96
+0.0.0.0 wwis-dubc1-vip97.adobe.com #192.190.8.97
+0.0.0.0 wwis-dubc1-vip98.adobe.com #192.190.8.98
+0.0.0.0 wwis-dubc1-vip99.adobe.com #192.190.8.99
+0.0.0.0 creative.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 adobe.activate.com
+0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 adobeereg.com
+0.0.0.0 3dns.adobe.com 
+0.0.0.0 3dns-1.adobe.com 
+0.0.0.0 3dns-2.adobe.com 
+0.0.0.0 3dns-3.adobe.com 
+0.0.0.0 3dns-4.adobe.com 
+0.0.0.0 activate.adobe.com 
+0.0.0.0 activate-sea.adobe.com 
+0.0.0.0 activate-sjc0.adobe.com 
+0.0.0.0 activate.wip.adobe.com 
+0.0.0.0 activate.wip1.adobe.com 
+0.0.0.0 activate.wip2.adobe.com 
+0.0.0.0 activate.wip3.adobe.com 
+0.0.0.0 activate.wip4.adobe.com 
+0.0.0.0 adobe-dns.adobe.com 
+0.0.0.0 adobe-dns-1.adobe.com 
+0.0.0.0 adobe-dns-2.adobe.com 
+0.0.0.0 adobe-dns-3.adobe.com 
+0.0.0.0 adobe-dns-4.adobe.com 
+0.0.0.0 adobeereg.com 
+0.0.0.0 practivate.adobe 
+0.0.0.0 practivate.adobe.com 
+0.0.0.0 practivate.adobe.newoa 
+0.0.0.0 practivate.adobe.ntp 
+0.0.0.0 practivate.adobe.ipp 
+0.0.0.0 ereg.adobe.com 
+0.0.0.0 ereg.wip.adobe.com 
+0.0.0.0 ereg.wip1.adobe.com 
+0.0.0.0 ereg.wip2.adobe.com 
+0.0.0.0 ereg.wip3.adobe.com 
+0.0.0.0 ereg.wip4.adobe.com 
+0.0.0.0 hl2rcv.adobe.com 
+0.0.0.0 wip.adobe.com 
+0.0.0.0 wip1.adobe.com 
+0.0.0.0 wip2.adobe.com 
+0.0.0.0 wip3.adobe.com 
+0.0.0.0 wip4.adobe.com 
+0.0.0.0 www.adobeereg.com 
+0.0.0.0 wwis-dubc1-vip60.adobe.com 
+0.0.0.0 www.wip.adobe.com 
+0.0.0.0 www.wip1.adobe.com 
+0.0.0.0 www.wip2.adobe.com 
+0.0.0.0 www.wip3.adobe.com 
+0.0.0.0 www.wip4.adobe.com 
+0.0.0.0 wwis-dubc1-vip60.adobe.com 
+
+0.0.0.0 ars.smartscreen.microsoft.com 
+0.0.0.0 az361816.vo.msecnd.net 
+0.0.0.0 az512334.vo.msecnd.net 
+0.0.0.0 blob.weather.microsoft.com 
+0.0.0.0 candycrushsoda.king.com 
+0.0.0.0 cdn.content.prod.cms.msn.com 
+0.0.0.0 cdn.onenote.net 
+0.0.0.0 choice.microsoft.com 
+0.0.0.0 choice.microsoft.com.nsatc.net 
+0.0.0.0 client.wns.windows.com 
+0.0.0.0 client-s.gateway.messenger.live.com 
+0.0.0.0 clientconfig.passport.net 
+0.0.0.0 deploy.static.akamaitechnologies.com 
+0.0.0.0 device.auth.xboxlive.com 
+0.0.0.0 dmd.metaservices.microsoft.com 
+0.0.0.0 dns.msftncsi.com 
+0.0.0.0 feedback.microsoft-hohm.com 
+0.0.0.0 feedback.search.microsoft.com 
+0.0.0.0 feedback.windows.com 
+0.0.0.0 img-s-msn-com.akamaized.net 
+0.0.0.0 insiderppe.cloudapp.net 
+0.0.0.0 licensing.mp.microsoft.com 
+0.0.0.0 mediaredirect.microsoft.com 
+0.0.0.0 msftncsi.com 
+0.0.0.0 officeclient.microsoft.com 
+0.0.0.0 oneclient.sfx.ms 
+0.0.0.0 pti.store.microsoft.com 
+0.0.0.0 query.prod.cms.rt.microsoft.com 
+0.0.0.0 register.cdpcs.microsoft.com 
+0.0.0.0 s0.2mdn.net 
+0.0.0.0 sO.2mdn.net 
+0.0.0.0 search.msn.com 
+0.0.0.0 settings-ssl.xboxlive.com 
+0.0.0.0 static.2mdn.net 
+0.0.0.0 store-images.s-microsoft.com 
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com 
+0.0.0.0 tile-service.weather.microsoft.com 
+#0.0.0.0 time.windows.com 
+0.0.0.0 tk2.plt.msn.com 
+0.0.0.0 urs.smartscreen.microsoft.com 
+0.0.0.0 wdcp.microsoft.com 
+0.0.0.0 wdcpalt.microsoft.com 
+0.0.0.0 win10-trt.msedge.net 
+0.0.0.0 wscont.apps.microsoft.com 
+0.0.0.0 www.msftncsi.com 
+0.0.0.0 a-0001.a-msedge.net 
+0.0.0.0 a-0001.dc-msedge.net 
+0.0.0.0 a-0002.a-msedge.net 
+0.0.0.0 a-0003.a-msedge.net 
+0.0.0.0 a-0004.a-msedge.net 
+0.0.0.0 a-0005.a-msedge.net 
+0.0.0.0 a-0006.a-msedge.net 
+0.0.0.0 a-0007.a-msedge.net 
+0.0.0.0 a-0008.a-msedge.net 
+0.0.0.0 a-0009.a-msedge.net 
+0.0.0.0 a-0010.a-msedge.net 
+0.0.0.0 a-0011.a-msedge.net 
+0.0.0.0 a-0012.a-msedge.net 
+0.0.0.0 a-msedge.net 
+0.0.0.0 a.ads1.msn.com 
+0.0.0.0 a.ads2.msads.net 
+0.0.0.0 a.ads2.msn.com 
+0.0.0.0 a.rad.msn.com 
+0.0.0.0 ac3.msn.com 
+0.0.0.0 activity.windows.com 
+0.0.0.0 adnexus.net 
+0.0.0.0 adnxs.com 
+0.0.0.0 ads.msn.com 
+0.0.0.0 ads1.msads.net 
+0.0.0.0 ads1.msn.com 
+0.0.0.0 aidps.atdmt.com 
+0.0.0.0 aka-cdn-ns.adtech.de 
+0.0.0.0 array101-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array102-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array103-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array104-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array201-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array202-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array203-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array204-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array401-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array402-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array403-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array404-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array405-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array406-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array407-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 array408-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 b.ads1.msn.com 
+0.0.0.0 b.ads2.msads.net 
+0.0.0.0 b.rad.msn.com 
+0.0.0.0 bingads.microsoft.com 
+0.0.0.0 bl3301-a.1drv.com 
+0.0.0.0 bl3301-c.1drv.com 
+0.0.0.0 bl3301-g.1drv.com 
+0.0.0.0 bn1304-e.1drv.com 
+0.0.0.0 bn1306-a.1drv.com 
+0.0.0.0 bn1306-e.1drv.com 
+0.0.0.0 bn1306-g.1drv.com 
+0.0.0.0 bn2b-cor001.api.p001.1drv.com 
+0.0.0.0 bn2b-cor002.api.p001.1drv.com 
+0.0.0.0 bn3p-cor001.api.p001.1drv.com 
+0.0.0.0 bn2b-cor003.api.p001.1drv.com 
+0.0.0.0 bn2b-cor004.api.p001.1drv.com 
+0.0.0.0 bn2wns1.wns.windows.com 
+0.0.0.0 bn3sch020022328.wns.windows.com 
+0.0.0.0 by3301-a.1drv.com 
+0.0.0.0 by3301-c.1drv.com 
+0.0.0.0 by3301-e.1drv.com 
+0.0.0.0 bs.serving-sys.com 
+0.0.0.0 c.atdmt.com 
+0.0.0.0 c.msn.com 
+0.0.0.0 c-0001.dc-msedge.net 
+0.0.0.0 ca.telemetry.microsoft.com 
+0.0.0.0 cache.datamart.windows.com 
+0.0.0.0 cdn.atdmt.com 
+0.0.0.0 cds1204.lon.llnw.net 
+0.0.0.0 cds1293.lon.llnw.net 
+0.0.0.0 cds20417.lcy.llnw.net 
+0.0.0.0 cds20431.lcy.llnw.net 
+0.0.0.0 cds20450.lcy.llnw.net 
+0.0.0.0 cds20457.lcy.llnw.net 
+0.0.0.0 cds20475.lcy.llnw.net 
+0.0.0.0 cds21244.lon.llnw.net 
+0.0.0.0 cds26.ams9.msecn.net 
+0.0.0.0 cds425.lcy.llnw.net 
+0.0.0.0 cds459.lcy.llnw.net 
+0.0.0.0 cds494.lcy.llnw.net 
+0.0.0.0 cds965.lon.llnw.net 
+0.0.0.0 ch1-cor001.api.p001.1drv.com 
+0.0.0.0 ch1-cor002.api.p001.1drv.com 
+0.0.0.0 ch3301-c.1drv.com 
+0.0.0.0 ch3301-e.1drv.com 
+0.0.0.0 ch3301-g.1drv.com 
+0.0.0.0 ch3302-c.1drv.com 
+0.0.0.0 ch3302-e.1drv.com 
+0.0.0.0 compatexchange.cloudapp.net 
+0.0.0.0 compatexchange1.trafficmanager.net 
+0.0.0.0 continuum.dds.microsoft.com 
+0.0.0.0 corp.sts.microsoft.com 
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com 
+0.0.0.0 cp101-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 cp201-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 cp401-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 cs1.wpc.v0cdn.net 
+0.0.0.0 db3aqu.atdmt.com 
+0.0.0.0 db3wns2011111.wns.windows.com 
+0.0.0.0 db5.wns.windows.com 
+0.0.0.0 db5sch101100122.wns.windows.com 
+0.0.0.0 db5sch101100127.wns.windows.com 
+0.0.0.0 db5sch101100831.wns.windows.com 
+0.0.0.0 db5sch101100835.wns.windows.com 
+0.0.0.0 db5sch101100917.wns.windows.com 
+0.0.0.0 db5sch101100925.wns.windows.com 
+0.0.0.0 db5sch101100928.wns.windows.com 
+0.0.0.0 db5sch101100938.wns.windows.com 
+0.0.0.0 db5sch101101001.wns.windows.com 
+0.0.0.0 db5sch101101022.wns.windows.com 
+0.0.0.0 db5sch101101024.wns.windows.com 
+0.0.0.0 db5sch101101031.wns.windows.com 
+0.0.0.0 db5sch101101034.wns.windows.com 
+0.0.0.0 db5sch101101042.wns.windows.com 
+0.0.0.0 db5sch101101044.wns.windows.com 
+0.0.0.0 db5sch101101122.wns.windows.com 
+0.0.0.0 db5sch101101123.wns.windows.com 
+0.0.0.0 db5sch101101125.wns.windows.com 
+0.0.0.0 db5sch101101128.wns.windows.com 
+0.0.0.0 db5sch101101129.wns.windows.com 
+0.0.0.0 db5sch101101133.wns.windows.com 
+0.0.0.0 db5sch101101145.wns.windows.com 
+0.0.0.0 db5sch101101209.wns.windows.com 
+0.0.0.0 db5sch101101221.wns.windows.com 
+0.0.0.0 db5sch101101228.wns.windows.com 
+0.0.0.0 db5sch101101231.wns.windows.com 
+0.0.0.0 db5sch101101237.wns.windows.com 
+0.0.0.0 db5sch101101317.wns.windows.com 
+0.0.0.0 db5sch101101324.wns.windows.com 
+0.0.0.0 db5sch101101329.wns.windows.com 
+0.0.0.0 db5sch101101333.wns.windows.com 
+0.0.0.0 db5sch101101334.wns.windows.com 
+0.0.0.0 db5sch101101338.wns.windows.com 
+0.0.0.0 db5sch101101419.wns.windows.com 
+0.0.0.0 db5sch101101424.wns.windows.com 
+0.0.0.0 db5sch101101426.wns.windows.com 
+0.0.0.0 db5sch101101427.wns.windows.com 
+0.0.0.0 db5sch101101430.wns.windows.com 
+0.0.0.0 db5sch101101445.wns.windows.com 
+0.0.0.0 db5sch101101511.wns.windows.com 
+0.0.0.0 db5sch101101519.wns.windows.com 
+0.0.0.0 db5sch101101529.wns.windows.com 
+0.0.0.0 db5sch101101535.wns.windows.com 
+0.0.0.0 db5sch101101541.wns.windows.com 
+0.0.0.0 db5sch101101543.wns.windows.com 
+0.0.0.0 db5sch101101608.wns.windows.com 
+0.0.0.0 db5sch101101618.wns.windows.com 
+0.0.0.0 db5sch101101629.wns.windows.com 
+0.0.0.0 db5sch101101631.wns.windows.com 
+0.0.0.0 db5sch101101633.wns.windows.com 
+0.0.0.0 db5sch101101640.wns.windows.com 
+0.0.0.0 db5sch101101711.wns.windows.com 
+0.0.0.0 db5sch101101722.wns.windows.com 
+0.0.0.0 db5sch101101739.wns.windows.com 
+0.0.0.0 db5sch101101745.wns.windows.com 
+0.0.0.0 db5sch101101813.wns.windows.com 
+0.0.0.0 db5sch101101820.wns.windows.com 
+0.0.0.0 db5sch101101826.wns.windows.com 
+0.0.0.0 db5sch101101835.wns.windows.com 
+0.0.0.0 db5sch101101837.wns.windows.com 
+0.0.0.0 db5sch101101844.wns.windows.com 
+0.0.0.0 db5sch101101907.wns.windows.com 
+0.0.0.0 db5sch101101914.wns.windows.com 
+0.0.0.0 db5sch101101929.wns.windows.com 
+0.0.0.0 db5sch101101939.wns.windows.com 
+0.0.0.0 db5sch101101941.wns.windows.com 
+0.0.0.0 db5sch101102015.wns.windows.com 
+0.0.0.0 db5sch101102017.wns.windows.com 
+0.0.0.0 db5sch101102019.wns.windows.com 
+0.0.0.0 db5sch101102023.wns.windows.com 
+0.0.0.0 db5sch101102025.wns.windows.com 
+0.0.0.0 db5sch101102032.wns.windows.com 
+0.0.0.0 db5sch101102033.wns.windows.com 
+0.0.0.0 db5sch101110108.wns.windows.com 
+0.0.0.0 db5sch101110109.wns.windows.com 
+0.0.0.0 db5sch101110114.wns.windows.com 
+0.0.0.0 db5sch101110135.wns.windows.com 
+0.0.0.0 db5sch101110142.wns.windows.com 
+0.0.0.0 db5sch101110204.wns.windows.com 
+0.0.0.0 db5sch101110206.wns.windows.com 
+0.0.0.0 db5sch101110214.wns.windows.com 
+0.0.0.0 db5sch101110225.wns.windows.com 
+0.0.0.0 db5sch101110232.wns.windows.com 
+0.0.0.0 db5sch101110245.wns.windows.com 
+0.0.0.0 db5sch101110315.wns.windows.com 
+0.0.0.0 db5sch101110323.wns.windows.com 
+0.0.0.0 db5sch101110325.wns.windows.com 
+0.0.0.0 db5sch101110328.wns.windows.com 
+0.0.0.0 db5sch101110331.wns.windows.com 
+0.0.0.0 db5sch101110341.wns.windows.com 
+0.0.0.0 db5sch101110343.wns.windows.com 
+0.0.0.0 db5sch101110345.wns.windows.com 
+0.0.0.0 db5sch101110403.wns.windows.com 
+0.0.0.0 db5sch101110419.wns.windows.com 
+0.0.0.0 db5sch101110438.wns.windows.com 
+0.0.0.0 db5sch101110442.wns.windows.com 
+0.0.0.0 db5sch101110501.wns.windows.com 
+0.0.0.0 db5sch101110527.wns.windows.com 
+0.0.0.0 db5sch101110533.wns.windows.com 
+0.0.0.0 db5sch101110618.wns.windows.com 
+0.0.0.0 db5sch101110622.wns.windows.com 
+0.0.0.0 db5sch101110624.wns.windows.com 
+0.0.0.0 db5sch101110626.wns.windows.com 
+0.0.0.0 db5sch101110634.wns.windows.com 
+0.0.0.0 db5sch101110705.wns.windows.com 
+0.0.0.0 db5sch101110724.wns.windows.com 
+0.0.0.0 db5sch101110740.wns.windows.com 
+0.0.0.0 db5sch101110810.wns.windows.com 
+0.0.0.0 db5sch101110816.wns.windows.com 
+0.0.0.0 db5sch101110821.wns.windows.com 
+0.0.0.0 db5sch101110822.wns.windows.com 
+0.0.0.0 db5sch101110825.wns.windows.com 
+0.0.0.0 db5sch101110828.wns.windows.com 
+0.0.0.0 db5sch101110835.wns.windows.com 
+0.0.0.0 db5sch101110919.wns.windows.com 
+0.0.0.0 db5sch101110921.wns.windows.com 
+0.0.0.0 db5sch101110923.wns.windows.com 
+0.0.0.0 db5sch101110929.wns.windows.com 
+0.0.0.0 db5sch103081814.wns.windows.com 
+0.0.0.0 db5sch103082011.wns.windows.com 
+0.0.0.0 db5sch103082111.wns.windows.com 
+0.0.0.0 db5sch103082308.wns.windows.com 
+0.0.0.0 db5sch103082406.wns.windows.com 
+0.0.0.0 db5sch103082409.wns.windows.com 
+0.0.0.0 db5sch103082609.wns.windows.com 
+0.0.0.0 db5sch103082611.wns.windows.com 
+0.0.0.0 db5sch103082709.wns.windows.com 
+0.0.0.0 db5sch103082712.wns.windows.com 
+0.0.0.0 db5sch103082806.wns.windows.com 
+0.0.0.0 db5sch103090115.wns.windows.com 
+0.0.0.0 db5sch103090415.wns.windows.com 
+0.0.0.0 db5sch103090513.wns.windows.com 
+0.0.0.0 db5sch103090515.wns.windows.com 
+0.0.0.0 db5sch103090608.wns.windows.com 
+0.0.0.0 db5sch103090806.wns.windows.com 
+0.0.0.0 db5sch103090814.wns.windows.com 
+0.0.0.0 db5sch103090906.wns.windows.com 
+0.0.0.0 db5sch103091011.wns.windows.com 
+0.0.0.0 db5sch103091012.wns.windows.com 
+0.0.0.0 db5sch103091106.wns.windows.com 
+0.0.0.0 db5sch103091108.wns.windows.com 
+0.0.0.0 db5sch103091212.wns.windows.com 
+0.0.0.0 db5sch103091311.wns.windows.com 
+0.0.0.0 db5sch103091414.wns.windows.com 
+0.0.0.0 db5sch103091511.wns.windows.com 
+0.0.0.0 db5sch103091617.wns.windows.com 
+0.0.0.0 db5sch103091715.wns.windows.com 
+0.0.0.0 db5sch103091817.wns.windows.com 
+0.0.0.0 db5sch103091908.wns.windows.com 
+0.0.0.0 db5sch103091911.wns.windows.com 
+0.0.0.0 db5sch103092010.wns.windows.com 
+0.0.0.0 db5sch103092108.wns.windows.com 
+0.0.0.0 db5sch103092109.wns.windows.com 
+0.0.0.0 db5sch103092209.wns.windows.com 
+0.0.0.0 db5sch103092210.wns.windows.com 
+0.0.0.0 db5sch103092509.wns.windows.com 
+0.0.0.0 db5sch103100117.wns.windows.com 
+0.0.0.0 db5sch103100121.wns.windows.com 
+0.0.0.0 db5sch103100221.wns.windows.com 
+0.0.0.0 db5sch103100313.wns.windows.com 
+0.0.0.0 db5sch103100314.wns.windows.com 
+0.0.0.0 db5sch103100510.wns.windows.com 
+0.0.0.0 db5sch103100511.wns.windows.com 
+0.0.0.0 db5sch103100611.wns.windows.com 
+0.0.0.0 db5sch103100712.wns.windows.com 
+0.0.0.0 db5sch103101105.wns.windows.com 
+0.0.0.0 db5sch103101208.wns.windows.com 
+0.0.0.0 db5sch103101212.wns.windows.com 
+0.0.0.0 db5sch103101314.wns.windows.com 
+0.0.0.0 db5sch103101411.wns.windows.com 
+0.0.0.0 db5sch103101413.wns.windows.com 
+0.0.0.0 db5sch103101513.wns.windows.com 
+0.0.0.0 db5sch103101610.wns.windows.com 
+0.0.0.0 db5sch103101611.wns.windows.com 
+0.0.0.0 db5sch103101705.wns.windows.com 
+0.0.0.0 db5sch103101711.wns.windows.com 
+0.0.0.0 db5sch103101909.wns.windows.com 
+0.0.0.0 db5sch103101914.wns.windows.com 
+0.0.0.0 db5sch103102009.wns.windows.com 
+0.0.0.0 db5sch103102112.wns.windows.com 
+0.0.0.0 db5sch103102203.wns.windows.com 
+0.0.0.0 db5sch103102209.wns.windows.com 
+0.0.0.0 db5sch103102310.wns.windows.com 
+0.0.0.0 db5sch103102404.wns.windows.com 
+0.0.0.0 db5sch103102609.wns.windows.com 
+0.0.0.0 db5sch103102610.wns.windows.com 
+0.0.0.0 db5sch103102805.wns.windows.com 
+0.0.0.0 db5wns1d.wns.windows.com 
+0.0.0.0 db6sch102090104.wns.windows.com 
+0.0.0.0 db6sch102090112.wns.windows.com 
+0.0.0.0 db6sch102090116.wns.windows.com 
+0.0.0.0 db6sch102090122.wns.windows.com 
+0.0.0.0 db6sch102090203.wns.windows.com 
+0.0.0.0 db6sch102090206.wns.windows.com 
+0.0.0.0 db6sch102090208.wns.windows.com 
+0.0.0.0 db6sch102090209.wns.windows.com 
+0.0.0.0 db6sch102090211.wns.windows.com 
+0.0.0.0 db6sch102090305.wns.windows.com 
+0.0.0.0 db6sch102090306.wns.windows.com 
+0.0.0.0 db6sch102090308.wns.windows.com 
+0.0.0.0 db6sch102090311.wns.windows.com 
+0.0.0.0 db6sch102090313.wns.windows.com 
+0.0.0.0 db6sch102090410.wns.windows.com 
+0.0.0.0 db6sch102090412.wns.windows.com 
+0.0.0.0 db6sch102090504.wns.windows.com 
+0.0.0.0 db6sch102090510.wns.windows.com 
+0.0.0.0 db6sch102090512.wns.windows.com 
+0.0.0.0 db6sch102090513.wns.windows.com 
+0.0.0.0 db6sch102090514.wns.windows.com 
+0.0.0.0 db6sch102090519.wns.windows.com 
+0.0.0.0 db6sch102090613.wns.windows.com 
+0.0.0.0 db6sch102090619.wns.windows.com 
+0.0.0.0 db6sch102090810.wns.windows.com 
+0.0.0.0 db6sch102090811.wns.windows.com 
+0.0.0.0 db6sch102090902.wns.windows.com 
+0.0.0.0 db6sch102090905.wns.windows.com 
+0.0.0.0 db6sch102090907.wns.windows.com 
+0.0.0.0 db6sch102090908.wns.windows.com 
+0.0.0.0 db6sch102090910.wns.windows.com 
+0.0.0.0 db6sch102090911.wns.windows.com 
+0.0.0.0 db6sch102091003.wns.windows.com 
+0.0.0.0 db6sch102091007.wns.windows.com 
+0.0.0.0 db6sch102091008.wns.windows.com 
+0.0.0.0 db6sch102091009.wns.windows.com 
+0.0.0.0 db6sch102091011.wns.windows.com 
+0.0.0.0 db6sch102091103.wns.windows.com 
+0.0.0.0 db6sch102091105.wns.windows.com 
+0.0.0.0 db6sch102091204.wns.windows.com 
+0.0.0.0 db6sch102091209.wns.windows.com 
+0.0.0.0 db6sch102091305.wns.windows.com 
+0.0.0.0 db6sch102091307.wns.windows.com 
+0.0.0.0 db6sch102091308.wns.windows.com 
+0.0.0.0 db6sch102091309.wns.windows.com 
+0.0.0.0 db6sch102091314.wns.windows.com 
+0.0.0.0 db6sch102091412.wns.windows.com 
+0.0.0.0 db6sch102091503.wns.windows.com 
+0.0.0.0 db6sch102091507.wns.windows.com 
+0.0.0.0 db6sch102091602.wns.windows.com 
+0.0.0.0 db6sch102091603.wns.windows.com 
+0.0.0.0 db6sch102091606.wns.windows.com 
+0.0.0.0 db6sch102091607.wns.windows.com 
+0.0.0.0 dev.virtualearth.net 
+0.0.0.0 df.telemetry.microsoft.com 
+0.0.0.0 disc101-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 disc201-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 disc401-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 diagnostics.support.microsoft.com 
+0.0.0.0 ec.atdmt.com 
+0.0.0.0 ecn.dev.virtualearth.net 
+0.0.0.0 eu.vortex.data.microsoft.com 
+0.0.0.0 flex.msn.com 
+0.0.0.0 fs.microsoft.com 
+0.0.0.0 g.msn.com 
+0.0.0.0 geo-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 geover-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 h1.msn.com 
+0.0.0.0 h2.msn.com 
+0.0.0.0 i-bl6p-cor001.api.p001.1drv.com 
+0.0.0.0 i-by3p-cor001.api.p001.1drv.com 
+0.0.0.0 i-by3p-cor002.api.p001.1drv.com 
+0.0.0.0 i-ch1-cor001.api.p001.1drv.com 
+0.0.0.0 i-ch1-cor002.api.p001.1drv.com 
+0.0.0.0 i-sn2-cor001.api.p001.1drv.com 
+0.0.0.0 i-sn2-cor002.api.p001.1drv.com 
+0.0.0.0 i1.services.social.microsoft.com 
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net 
+0.0.0.0 inference.location.live.net 
+0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 kv201-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 kv401-prod.do.dsp.mp.microsoft.com 
+0.0.0.0 lb1.www.ms.akadns.net 
+0.0.0.0 live.rads.msn.com 
+0.0.0.0 ls2web.redmond.corp.microsoft.com 
+0.0.0.0 m.adnxs.com 
+0.0.0.0 mobile.pipe.aria.microsoft.com 
+0.0.0.0 msedge.net 
+0.0.0.0 msntest.serving-sys.com 
+0.0.0.0 oca.telemetry.microsoft.com 
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net 
+0.0.0.0 pre.footprintpredict.com 
+0.0.0.0 preview.msn.com 
+0.0.0.0 rad.msn.com 
+0.0.0.0 redir.metaservices.microsoft.com 
+0.0.0.0 reports.wes.df.telemetry.microsoft.com 
+0.0.0.0 schemas.microsoft.akadns.net 
+0.0.0.0 secure.adnxs.com 
+0.0.0.0 secure.flashtalking.com 
+0.0.0.0 services.wes.df.telemetry.microsoft.com 
+0.0.0.0 settings-sandbox.data.microsoft.com 
+0.0.0.0 settings-win.data.microsoft.com 
+0.0.0.0 settings-win-ppe.data.microsoft.com 
+0.0.0.0 settings.data.glbdns2.microsoft.com 
+0.0.0.0 settings.data.microsoft.com 
+0.0.0.0 sn3301-c.1drv.com 
+0.0.0.0 sn3301-e.1drv.com 
+0.0.0.0 sn3301-g.1drv.com 
+0.0.0.0 spynet2.microsoft.com 
+0.0.0.0 spynetalt.microsoft.com 
+0.0.0.0 spyneteurope.microsoft.akadns.net 
+0.0.0.0 sqm.df.telemetry.microsoft.com 
+0.0.0.0 sqm.telemetry.microsoft.com 
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net 
+0.0.0.0 storecatalogrevocation.storequality.microsoft.com 
+0.0.0.0 survey.watson.microsoft.com 
+0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net 
+0.0.0.0 t0.ssl.ak.tiles.virtualearth.net 
+0.0.0.0 telecommand.telemetry.microsoft.com 
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net 
+0.0.0.0 telemetry.appex.bing.net 
+0.0.0.0 telemetry.microsoft.com 
+0.0.0.0 telemetry.urs.microsoft.com 
+0.0.0.0 test.activity.windows.com 
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com 
+0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net 
+0.0.0.0 v10.vortex-win.data.microsoft.com 
+0.0.0.0 version.hybrid.api.here.com 
+0.0.0.0 view.atdmt.com 
+0.0.0.0 vortex-bn2.metron.live.com.nsatc.net 
+0.0.0.0 vortex-cy2.metron.live.com.nsatc.net 
+0.0.0.0 vortex-db5.metron.live.com.nsatc.net 
+0.0.0.0 vortex-hk2.metron.live.com.nsatc.net 
+0.0.0.0 vortex-sandbox.data.microsoft.com 
+0.0.0.0 vortex-win.data.metron.live.com.nsatc.net 
+0.0.0.0 vortex-win.data.microsoft.com 
+0.0.0.0 vortex.data.glbdns2.microsoft.com 
+0.0.0.0 vortex.data.metron.live.com.nsatc.net 
+0.0.0.0 vortex.data.microsoft.com 
+0.0.0.0 watson.microsoft.com 
+0.0.0.0 watson.ppe.telemetry.microsoft.com 
+0.0.0.0 watson.telemetry.microsoft.com 
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net 
+0.0.0.0 web.vortex.data.microsoft.com 
+0.0.0.0 wes.df.telemetry.microsoft.com 
+0.0.0.0 win10.ipv6.microsoft.com 
+0.0.0.0 win1710.ipv6.microsoft.com 
+0.0.0.0 www.msedge.net 
+
+#*********************** RDJ FIM ********************************************
+
+===================================================================
+
+## Title : TheGreatWall
+## Prevent program and malware to bypass DNS filter by using popular DoH services
+## To block DNS over TLS (DoT), block port 853
+## This list has been created for security purpose ONLY
+## To be more efficient, you should also consider blocking DoH providers IP adresses
+## Last update : 15 June 2020
+## Domain count : 132
+#https://github.com/Sekhan/TheGreatWall
+===================================================================
+
+# Aaflalo
+0.0.0.0 dns.aaflalo.me
+0.0.0.0 dns-nyc.aaflalo.me
+
+# AdGuard
+0.0.0.0 dns.adguard.com
+0.0.0.0 dns-family.adguard.com
+
+# Alekberg
+0.0.0.0 dns.alekberg.net
+0.0.0.0 dns2.alekberg.net
+0.0.0.0 dnsse.alekberg.net
+
+# AliDNS
+0.0.0.0 dns.alidns.com
+
+# Andrews & Arnold
+0.0.0.0 dns.aa.net.uk
+
+# Association 42l
+0.0.0.0 doh.42l.fr
+
+# AT&T
+0.0.0.0 dohtrial.att.net
+
+# BlahDNS
+0.0.0.0 doh-fi.blahdns.com
+0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 doh-de.blahdns.com
+0.0.0.0 doh-sg.blahdns.com
+
+# Brahma World
+0.0.0.0 dns.brahma.world
+
+# Canadian Shield
+0.0.0.0 private.canadianshield.cira.ca
+0.0.0.0 protected.canadianshield.cira.ca
+0.0.0.0 family.canadianshield.cira.ca
+
+# Captnemo
+0.0.0.0 doh.captnemo.in
+
+# Cisco
+0.0.0.0 doh.opendns.com
+0.0.0.0 doh.familyshield.opendns.com
+
+# Clean Browsing
+0.0.0.0 family-filter-dns.cleanbrowsing.org
+0.0.0.0 adult-filter-dns.cleanbrowsing.org
+0.0.0.0 security-filter-dns.cleanbrowsing.org
+0.0.0.0 doh.cleanbrowsing.org
+
+# Cloudflare
+0.0.0.0 one.one.one.one
+0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 dns64.cloudflare-dns.com
+0.0.0.0 security.cloudflare-dns.com
+0.0.0.0 family.cloudflare-dns.com
+
+# Comcast
+0.0.0.0 doh.xfinity.com
+
+# Comodo
+0.0.0.0 ns1.recursive.dnsbycomodo.com
+0.0.0.0 ns2.recursive.dnsbycomodo.com
+
+# Commons-host
+0.0.0.0 commons.host
+
+# ContainerPI
+0.0.0.0 dns.containerpi.com
+
+# Cox
+0.0.0.0 dohdot.coxlab.net
+
+# Crypto.sx
+0.0.0.0 doh.crypto.sx
+0.0.0.0 doh-ipv6.crypto.sx
+
+# Digitale Gesellschaft
+0.0.0.0 dns.digitale-gesellschaft.ch
+
+# Doh.li
+0.0.0.0 doh.li
+
+# DNScrypt (DoH)
+0.0.0.0 dns1.dnscrypt.ca
+0.0.0.0 dns2.dnscrypt.ca
+
+# DNSforge
+0.0.0.0 dnsforge.de
+
+# DNS home
+0.0.0.0 dns.dnshome.de
+
+# DNS lify
+0.0.0.0 doh.dnslify.com
+0.0.0.0 a.ns.dnslify.com
+0.0.0.0 b.ns.dnslify.com
+0.0.0.0 a.safe.ns.dnslify.com
+0.0.0.0 b.safe.ns.dnslify.com
+0.0.0.0 a.family.ns.dnslify.com
+0.0.0.0 b.family.ns.dnslify.com
+
+# DNS Seby
+0.0.0.0 doh.seby.io
+0.0.0.0 doh-2.seby.io
+
+# DNS.SB
+0.0.0.0 doh.dns.sb
+
+# Dyn
+0.0.0.0 resolver1.dyndnsinternetguide.com
+0.0.0.0 resolver2.dyndnsinternetguide.com
+
+# FFmuc
+0.0.0.0 doh.ffmuc.net
+
+# Foundation for Applied Privacy
+0.0.0.0 doh.applied-privacy.net
+
+# GeekDNS
+0.0.0.0 dns.233py.com
+0.0.0.0 i.233py.com
+0.0.0.0 wdns.233py.com
+0.0.0.0 ndns.233py.com
+0.0.0.0 sdns.233py.com
+
+
+# Hostux
+0.0.0.0 dns.hostux.net
+
+# Ibuki
+0.0.0.0 ibuki.cgnat.net
+
+# Ibksturm
+0.0.0.0 ibksturm.synology.me
+
+# Jcdns
+0.0.0.0 jcdns.fun
+
+# Lelux
+0.0.0.0 resolver-eu.lelux.fi
+
+# LibreDNS
+0.0.0.0 doh.libredns.gr
+
+# Mrkaran
+0.0.0.0 dns.mrkaran.dev
+
+# NekomimiRouter
+0.0.0.0 dns.dns-over-https.com
+
+# NextDNS
+0.0.0.0 dns.nextdns.io
+
+# NixNet
+0.0.0.0 uncensored.any.dns.nixnet.xyz
+0.0.0.0 adblock.any.dns.nixnet.xyz
+0.0.0.0 uncensored.lv1.dns.nixnet.xyz
+0.0.0.0 adblock.lv1.dns.nixnet.xyz
+0.0.0.0 uncensored.ny1.dns.nixnet.xyz
+0.0.0.0 adblock.ny1.dns.nixnet.xyz
+0.0.0.0 uncensored.lux1.dns.nixnet.xyz
+0.0.0.0 adblock.lux1.dns.nixnet.xyz
+
+# OpenDNS
+0.0.0.0 resolver1.opendns.com
+0.0.0.0 resolver2.opendns.com
+0.0.0.0 resolver1-fs.opendns.com
+0.0.0.0 resolver2-fs.opendns.com
+0.0.0.0 resolver1.ipv6-sandbox.opendns.com
+0.0.0.0 resolver2.ipv6-sandbox.opendns.com
+
+# OSZX (PumpleX)
+0.0.0.0 dns.oszx.co
+0.0.0.0 dns.pumplex.com
+
+# Pi-DNS
+0.0.0.0 doh.centraleu.pi-dns.com
+0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 doh.westus.pi-dns.com
+0.0.0.0 doh.eastus.pi-dns.com
+
+# PowerDNS
+0.0.0.0 doh.powerdns.org
+
+# Qua9
+0.0.0.0 dns.quad9.net
+0.0.0.0 dns9.quad9.net
+0.0.0.0 dns10.quad9.net
+0.0.0.0 dns11.quad9.net
+0.0.0.0 rpz-public-resolver1.rrdns.pch.net
+0.0.0.0 dns-nosec.quad9.net
+
+# Quad101
+0.0.0.0 dns.twnic.tw
+
+# Rubyfish
+0.0.0.0 v6.rubyfish.cn
+0.0.0.0 dns.rubyfish.cn
+0.0.0.0 ea-dns.rubyfish.cn
+0.0.0.0 uw-dns.rubyfish.cn
+
+# Secure DNS
+0.0.0.0 doh.securedns.eu
+0.0.0.0 ads-doh.securedns.eu
+
+# Snopyta
+0.0.0.0 fi.doh.dns.snopyta.org
+
+# Switch
+0.0.0.0 dns.switch.ch
+
+# Tiarap
+0.0.0.0 doh.tiar.app
+0.0.0.0 doh.tiarap.org
+0.0.0.0 jp.tiar.app
+0.0.0.0 jp.tiarap.org
+
+# t53
+0.0.0.0 dns.t53.de
+
+# Xfinity (Comcast)
+0.0.0.0 doh.xfinity.com
+
+# Others
+0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 doh.dnswarden.com
+0.0.0.0 doh.appliedprivacy.net
+0.0.0.0 public.dns.iij.jp
+0.0.0.0 jp.gridns.xyz
+0.0.0.0 dns.flatuslifir.is
+0.0.0.0 odvr.nic.cz
+0.0.0.0 rumpelsepp.org
+0.0.0.0 ordns.he.net
+0.0.0.0 rdns.faelix.net
+0.0.0.0 adfree.usableprivacy.net
